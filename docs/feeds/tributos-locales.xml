@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://gabela-io.github.io/dgt-consultas-vinculantes/feeds/tributos-locales.xml</id>
+  <title>Consultas vinculantes DGT: Tributos locales</title>
+  <subtitle>Consultas vinculantes de la Dirección General de Tributos. Origen de los datos: Ministerio de Hacienda.</subtitle>
+  <updated>2026-09-24T00:00:00Z</updated>
+  <link rel="self" href="https://gabela-io.github.io/dgt-consultas-vinculantes/feeds/tributos-locales.xml" />
+  <link rel="alternate" href="https://github.com/gabela-io/dgt-consultas-vinculantes" />
+  <author>
+    <name>gabela-io (unofficial)</name>
+  </author>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5642-26</id>
+    <title>V5642-26 · Se plantea si debe excluirse de la base imponible del impuesto los gastos generales y el beneficio empresarial de los c…</title>
+    <updated>2026-09-24T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5642-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5642-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: RDLeg 2/2004 Texto Refundido Ley Haciendas Locales - 100 - 101 - 102 - 103. Se plantea si debe excluirse de la base imponible del impuesto los gastos generales y el beneficio empresarial de los contratistas directos contratados por la consultante para la ejecución de la obra, y si dicha exclusión resulta aplicable a todos los contratistas directos. Adem…</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5639-26</id>
+    <title>V5639-26 · Se plantea en qué rúbricas de las Tarifas del IAE se tiene que matricular.</title>
+    <updated>2026-09-23T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5639-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5639-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: RDLeg 2/2004 Texto Refundido Ley Haciendas Locales - 78.1
+
+RDLeg 1175/1990 IAE Tarifas e Instrucción - 47 - 826 - Anexo 1.Regla General de Interpretación 2 - Anexo 1.Regla General de Interpretación 3 - Regla 4.1 - Regla 8. Se plantea en qué rúbricas de las Tarifas del IAE se tiene que matricular.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5629-26</id>
+    <title>V5629-26 · Se plantea si determinados elementos o aparatos, que se van a incorporar en el centro deportivo, se deben integrar en l…</title>
+    <updated>2026-09-21T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5629-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5629-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: RDLeg 2/2004 Texto Refundido Ley Haciendas Locales - 100 - 102 - 103. Se plantea si determinados elementos o aparatos, que se van a incorporar en el centro deportivo, se deben integrar en la base imponible del impuesto.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5610-26</id>
+    <title>V5610-26 · Se plantea en qué rúbricas de las Tarifas del IAE se tiene que matricular.</title>
+    <updated>2026-09-17T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5610-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5610-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: RDLeg 2/2004 Texto Refundido Ley Haciendas Locales - 78.1
+
+RDLeg 1175/1990 IAE Tarifas e Instrucción - 2 - 3 - 4.1 - 4.2.d) - 8 - 474 - 651 - 899. Se plantea en qué rúbricas de las Tarifas del IAE se tiene que matricular.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5550-26</id>
+    <title>V5550-26 · Se plantea si determinados elementos o aparatos, que se van a incorporar en el centro deportivo, se deben integrar en l…</title>
+    <updated>2026-09-15T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5550-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5550-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: RDLeg 2/2004 Texto Refundido Ley Haciendas Locales - 100 - 102 - 103. Se plantea si determinados elementos o aparatos, que se van a incorporar en el centro deportivo, se deben integrar en la base imponible del impuesto.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5549-26</id>
+    <title>V5549-26 · Se plantea si determinados elementos o aparatos, que se van a incorporar en el centro deportivo, se deben integrar en l…</title>
+    <updated>2026-09-15T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5549-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5549-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: RDLeg 2/2004 Texto Refundido Ley Haciendas Locales - 100 - 102 - 103. Se plantea si determinados elementos o aparatos, que se van a incorporar en el centro deportivo, se deben integrar en la base imponible del impuesto.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5548-26</id>
+    <title>V5548-26 · Plantea si estas actividades se podrían englobar en el epígrafe 966.9 “Otros servicios culturales n.c.o.p.” y, en caso …</title>
+    <updated>2026-09-15T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5548-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5548-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: RDLeg 1175/1990 IAE Tarifas e Instrucción - 755 - 855 - Anexo 1.Regla General de Interpretación 4 - Regla 8
+
+RDLeg 2/2004 Texto Refundido Ley Haciendas Locales - 78 - 79. Plantea si estas actividades se podrían englobar en el epígrafe 966.9 “Otros servicios culturales n.c.o.p.” y, en caso de que la respuesta no fuese afirmativa, en qué epígrafe o epígrafes del IAE se deben encuadrar estas actividades.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5527-26</id>
+    <title>V5527-26 · Se plantea en qué rúbricas de las Tarifas del IAE se tiene que matricular.</title>
+    <updated>2026-09-12T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5527-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5527-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: RDLeg 2/2004 Texto Refundido Ley Haciendas Locales - 78.1
+
+RDLeg 1175/1990 IAE Tarifas e Instrucción - 999 - Anexo 1.Regla General de Interpretación 2 - Anexo 1.Regla General de Interpretación 3 - Anexo 1.Regla General de Interpretación 4 - Regla 8. Se plantea en qué rúbricas de las Tarifas del IAE se tiene que matricular.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5435-26</id>
+    <title>V5435-26 · La empresa va a desarrollar la actividad de programación de módulos o centralitas electrónicas para llaves de automóvil…</title>
+    <updated>2026-08-04T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5435-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5435-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: RDLeg 1175/1990 IAE Tarifas e Instrucción - 691 - Anexo 1.Regla General de Interpretación 2 - Anexo 1.Regla General de Interpretación 4. La empresa va a desarrollar la actividad de programación de módulos o centralitas electrónicas para llaves de automóviles y motocicletas. Adicionalmente puede realizar alguna reparación de cerradura mecánica en el automóvil. Todo ello se llevará a cabo en establecimiento o local…</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5434-26</id>
+    <title>V5434-26 · Se plantea en qué rúbricas del impuesto se tiene que matricular.</title>
+    <updated>2026-07-31T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5434-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5434-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: RDLeg 2/2004 Texto Refundido Ley Haciendas Locales - 78.1
+
+RDLeg 1175/1990 IAE Tarifas e Instrucción - 672 - 673 - 677 - Regla 2 - Regla 4.1 - Regla 8. Se plantea en qué rúbricas del impuesto se tiene que matricular.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5188-26</id>
+    <title>V5188-26 · Se plantea si el alta en la rúbrica 973.1 faculta para realizar las actividades de comercialización expuestas, y en cas…</title>
+    <updated>2026-07-17T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5188-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5188-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: RDLeg 1175/1990 IAE Tarifas e Instrucción - 474 - 869 - Regla 4.1. Se plantea si el alta en la rúbrica 973.1 faculta para realizar las actividades de comercialización expuestas, y en caso contrario, en que rúbrica del impuesto se tendría que matricular. Además, desea conocer si el hecho de estar acogida al Régimen Especial del Pequeño Empresari…</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5150-26</id>
+    <title>V5150-26 · Se plantea en que rúbrica de las tarifas del impuesto se tiene que matricular.</title>
+    <updated>2026-07-13T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5150-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5150-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: RDLeg 1175/1990 IAE Tarifas e Instrucción - 653 - 849.9 - Anexo 1.Regla General de Interpretación 2 - Anexo 1.Regla General de Interpretación 4
+
+RDLeg 2/2004 Texto Refundido Ley Haciendas Locales - 78 - 79 - 82.1.c). Se plantea en que rúbrica de las tarifas del impuesto se tiene que matricular.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5143-26</id>
+    <title>V5143-26 · Se plantea en qué rúbricas de las Tarifas del impuesto se tiene que matricular.</title>
+    <updated>2026-07-10T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5143-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5143-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: RDLeg 2/2004 Texto Refundido Ley Haciendas Locales - 78.1
+
+RDLeg 1175/1990 IAE Tarifas e Instrucción - 482 - Regla 2 - Regla 4.1 - Regla 8. Se plantea en qué rúbricas de las Tarifas del impuesto se tiene que matricular.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5142-26</id>
+    <title>V5142-26 · Se plantea las siguientes cuestiones: 1.- ¿Como calcular el elemento superficie para el cálculo de la tarifa correspond…</title>
+    <updated>2026-07-10T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5142-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5142-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: RDLeg 1175/1990 IAE Tarifas e Instrucción - 685 - Regla 14.1.F) - Regla 2 - Regla 4.1 - Regla 6 - Regla 8 - Sección 1. Nota común 1ª
+
+RDLeg 2/2004 Texto Refundido Ley Haciendas Locales - 78 - 82.1.b) - 85.1. Se plantea las siguientes cuestiones: 1.- ¿Como calcular el elemento superficie para el cálculo de la tarifa correspondiente? 2.- ¿Tiene que darse de alta en IAE por cada uno de los inmuebles objeto de arrendamiento?</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5113-26</id>
+    <title>V5113-26 · Se plantea si la actividad expuesta se puede clasificar en la rúbrica 899 de la sección segunda del impuesto, “Otros pr…</title>
+    <updated>2026-07-03T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5113-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5113-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: RDLeg 1175/1990 IAE Tarifas e Instrucción - 845 - 999 - Anexo 1.Regla General de Interpretación 3 - Anexo 1.Regla General de Interpretación 4. Se plantea si la actividad expuesta se puede clasificar en la rúbrica 899 de la sección segunda del impuesto, “Otros profesionales relacionados con los servicios a que se refiere esta división”.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5109-26</id>
+    <title>V5109-26 · Se plantea si por las actividades expuestas tiene que matricularse en la rúbrica 756 del impuesto, “Actividades auxilia…</title>
+    <updated>2026-07-03T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5109-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5109-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: RDLeg 1175/1990 IAE Tarifas e Instrucción - 753 - 756 - Regla 4.1. Se plantea si por las actividades expuestas tiene que matricularse en la rúbrica 756 del impuesto, “Actividades auxiliares y complementarias del transporte (intermediarios del transporte)”, y más concretamente, en el epígrafe 756.1, “Agencias de transporte, transitarios”.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5108-26</id>
+    <title>V5108-26 · El consultante plantea si se puede aplicar la exención en el IVTM en los ejercicios 2024, 2025 y 2026 y solicitar la de…</title>
+    <updated>2026-07-02T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5108-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5108-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: RDLeg 2/2004 Texto Refundido Ley Haciendas Locales - 93.1.e) - 93.2 - 96
+
+RD 1065/2007 Reglamento Proc. Gestión e Inspección y N.Comunes de Aplicación - 137. El consultante plantea si se puede aplicar la exención en el IVTM en los ejercicios 2024, 2025 y 2026 y solicitar la devolución de ingresos indebidos por dichos ejercicios, que son períodos no prescritos.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5101-26</id>
+    <title>V5101-26 · El consultante plantea cuál es el epígrafe de las Tarifas del Impuesto sobre Actividades Económicas en el que debe clas…</title>
+    <updated>2026-06-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5101-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5101-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: RDLeg 1175/1990 IAE Tarifas e Instrucción - 849 - Regla 2 - Regla 4.1 - Regla 8. El consultante plantea cuál es el epígrafe de las Tarifas del Impuesto sobre Actividades Económicas en el que debe clasificarse la actividad de centros de llamadas, que se corresponde exactamente con el código CNAE 8220.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5096-26</id>
+    <title>V5096-26 · Se plantea en qué rúbricas de las Tarifas del impuesto se tiene que matricular.</title>
+    <updated>2026-06-29T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5096-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5096-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: RDLeg 2/2004 Texto Refundido Ley Haciendas Locales - 78.1
+
+RDLeg 1175/1990 IAE Tarifas e Instrucción - 423 - 612. Se plantea en qué rúbricas de las Tarifas del impuesto se tiene que matricular.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5081-26</id>
+    <title>V5081-26 · Tributación en el Impuesto sobre Vehículos de Tracción Mecánica.</title>
+    <updated>2026-06-26T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5081-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5081-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: RDLeg 2/2004 Texto Refundido Ley Haciendas Locales - 95
+
+Real Decreto 2822/1998 Reglamento General de Vehículos - Anexo.II. Tributación en el Impuesto sobre Vehículos de Tracción Mecánica.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5076-26</id>
+    <title>V5076-26 · Se plantea en qué rúbricas de las Tarifas del impuesto se tiene que matricular.</title>
+    <updated>2026-06-25T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5076-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5076-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: RDLeg 2/2004 Texto Refundido Ley Haciendas Locales - 78.1
+
+RDLeg 1175/1990 IAE Tarifas e Instrucción - 647. Se plantea en qué rúbricas de las Tarifas del impuesto se tiene que matricular.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V1503-26</id>
+    <title>V1503-26 · Desea saber cómo se calcula la cuota tributaria de la rúbrica 751.2 y cómo se aplica el elemento superficie previsto en…</title>
+    <updated>2026-06-12T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V1503-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V1503-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: TAR/INST IAE RD Leg. 1175/1990 reglas 10ª.1 y 14ª.1.F).j) (Instrucción), y epígrafes 751.1 y 751.2 sección primera (Tarifas).. Desea saber cómo se calcula la cuota tributaria de la rúbrica 751.2 y cómo se aplica el elemento superficie previsto en la regla 14ª de la Instrucción.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V1494-26</id>
+    <title>V1494-26 · Se plantea si tiene que darse de alta en impuesto y en que rúbrica tiene que matricularse, si en el grupo 685 o en el e…</title>
+    <updated>2026-06-11T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V1494-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V1494-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: TAR/INST IAE RD Leg. 1175/1990 grupo 685 y epígrafe 861.1 sección primera (Tarifas).. Se plantea si tiene que darse de alta en impuesto y en que rúbrica tiene que matricularse, si en el grupo 685 o en el epígrafe 861.1.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V1456-26</id>
+    <title>V1456-26 · Se plantea quien debe ser considerado sujeto pasivo del impuesto y cómo debe distribuirse la carga tributaria.</title>
+    <updated>2026-06-09T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V1456-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V1456-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: TRLRHL RD Leg. 2/2004 Artículos 61 y 63. TRLCI RD Leg. 1/2004 Artículo 9.1.. Se plantea quien debe ser considerado sujeto pasivo del impuesto y cómo debe distribuirse la carga tributaria.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V1455-26</id>
+    <title>V1455-26 · Se plantea el cómputo de la potencia instalada de estos elementos, a los efectos de la determinación de la cuota de la …</title>
+    <updated>2026-06-09T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V1455-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V1455-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: TRLRHL, RD Leg. 2/2004: arts. 78.1. TAR/INST IAE RD Leg. 1175/1990: Regla 2ª, 4ª.1, 8ª Y 14ª.A) (Instrucción).. Se plantea el cómputo de la potencia instalada de estos elementos, a los efectos de la determinación de la cuota de la tarifa.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V1288-26</id>
+    <title>V1288-26 · Se plantea en qué rúbricas del impuesto se tiene que matricular.</title>
+    <updated>2026-05-25T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V1288-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V1288-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: TRLRHL, RD Leg. 2/2004: art. 78.1.TAR/INST IAE RD Leg. 1175/1990: Regla 2ª, 3ª 4ª.1 y 8ª (Instrucción) y epígrafe 967.2 sección primera (Tarifas).. Se plantea en qué rúbricas del impuesto se tiene que matricular.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V1277-26</id>
+    <title>V1277-26 · Se plantea cual es el valor de transmisión a efectos de la aplicación del artículo 104.5 o del artículo 107.5 del TRLRHL</title>
+    <updated>2026-05-25T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V1277-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V1277-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: TRLRHL RD Leg. 2/2004. Artículos 104, 106, 107 y 109.. Se plantea cual es el valor de transmisión a efectos de la aplicación del artículo 104.5 o del artículo 107.5 del TRLRHL</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V1017-26</id>
+    <title>V1017-26 · Se plantea en qué rúbricas del impuesto se tiene que matricular.</title>
+    <updated>2026-05-06T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V1017-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V1017-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: TRLRHL, RD Leg. 2/2004: arts. 78.1. TAR/INST IAE RD Leg. 1175/1990: Regla 2ª, 4ª.1, 4.ª.2.A) y 8ª (Instrucción) y epígrafe 314.2 sección primera (Tarifas). Se plantea en qué rúbricas del impuesto se tiene que matricular.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0890-26</id>
+    <title>V0890-26 · Se plantea si resulta de aplicación el régimen especial de cuantificación de la tasa por la utilización privativa o el …</title>
+    <updated>2026-04-22T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0890-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0890-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: TRLRHL, RD Leg. 2/2004. Artículos 20, 23 y 24. Se plantea si resulta de aplicación el régimen especial de cuantificación de la tasa por la utilización privativa o el aprovechamiento especial del dominio público local, regulado en el artículo 24.1.c) del TRLRHL.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0875-26</id>
+    <title>V0875-26 · Se plantea si para liquidar el IIVTNU debe determinar la base imponible considerando que adquirió el 50 por ciento del …</title>
+    <updated>2026-04-21T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0875-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0875-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: TRLRHL RD Leg. 2/2004. Artículos 104, 106, 107 y 109. Se plantea si para liquidar el IIVTNU debe determinar la base imponible considerando que adquirió el 50 por ciento del piso y de las dos plazas de garaje en el año 2002 y el otro 50 por ciento en el año 2006, o si debe seguir un criterio diferente.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0874-26</id>
+    <title>V0874-26 · Se plantea en qué rúbricas del impuesto se tiene que matricular</title>
+    <updated>2026-04-21T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0874-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0874-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: TRLRHL, RD Leg. 2/2004: art. 78.1.TAR/INST IAE RD Leg. 1175/1990: Regla 2ª, 4ª.1 y 8ª (Instrucción) y epígrafes 861.2 y 856.1 sección primera (Tarifas). Se plantea en qué rúbricas del impuesto se tiene que matricular</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0873-26</id>
+    <title>V0873-26 · Se plantea en qué rúbricas del impuesto se tiene que matricular</title>
+    <updated>2026-04-21T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0873-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0873-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: TRLRHL, RD Leg. 2/2004: art. 78.1.TAR/INST IAE RD Leg. 1175/1990: Regla 2ª, 3ª 4ª.1 y 8ª (Instrucción) y epígrafe 972.2 sección primera (Tarifas). Se plantea en qué rúbricas del impuesto se tiene que matricular</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0850-26</id>
+    <title>V0850-26 · Se plantea en qué rúbricas del impuesto se tienen que matricular estas empresas.</title>
+    <updated>2026-04-20T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0850-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0850-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: TRLRHL, RD Leg. 2/2004: art. 78.1.TAR/INST IAE RD Leg. 1175/1990: Regla 2ª, 4ª.1, 4ª.2.A) y 8ª (Instrucción) y epígrafes 231.3 sección primera (Tarifas).. Se plantea en qué rúbricas del impuesto se tienen que matricular estas empresas.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0833-26</id>
+    <title>V0833-26 · Se plantea si el alta en el epígrafe 861.1 debe declararse tanto en el modelo 840 como en el modelo 036.</title>
+    <updated>2026-04-17T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0833-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0833-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: TRLRHL, RD Leg. 2/2004. TAR/INST IAE RD Leg. 1175/1990. RD 243/1995.. Se plantea si el alta en el epígrafe 861.1 debe declararse tanto en el modelo 840 como en el modelo 036.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0824-26</id>
+    <title>V0824-26 · Se plantea en qué rúbricas del impuesto se tiene que matricular.</title>
+    <updated>2026-04-16T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0824-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0824-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: TRLRHL, RD Leg. 2/2004: arts. 78.1 y 79.1. TAR/INST IAE RD Leg. 1175/1990: Regla 2ª, 4ª.1 y 8ª (Instrucción) y grupos 841, 842, epígrafes 843.1, 843.2, 849.1, 849.7 y división 5 sección primera (Tarifas). Se plantea en qué rúbricas del impuesto se tiene que matricular.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0814-26</id>
+    <title>V0814-26 · Se plantea, en la venta del inmueble, la fecha de inicio del período de generación del incremento de valor a efectos de…</title>
+    <updated>2026-04-13T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0814-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0814-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: TRLRHL RD Leg. 2/2004. Artículos 104, 106, 107 y 109.. Se plantea, en la venta del inmueble, la fecha de inicio del período de generación del incremento de valor a efectos del IIVTNU.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0810-26</id>
+    <title>V0810-26 · Se plantea en qué rúbricas del impuesto se tiene que matricular.</title>
+    <updated>2026-04-13T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0810-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0810-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: TRLRHL, RD Leg. 2/2004: arts. 78.1. TAR/INST IAE RD Leg. 1175/1990: Regla 2ª y 4ª.1 (Instrucción) y epígrafes 833.1, 833.2 y 834 sección primera (Tarifas). Se plantea en qué rúbricas del impuesto se tiene que matricular.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0793-26</id>
+    <title>V0793-26 · Se plantea si el epígrafe 654.1 de la sección primera de las Tarifas, "Comercio al por menor de vehículos terrestres", …</title>
+    <updated>2026-04-09T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0793-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0793-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: TRLRHL, RD Leg. 2/2004: arts. 78.1. TAR/INST IAE RD Leg. 1175/1990: Regla 2ª, 4ª.1 y 4.2.D) (Instrucción) y epígrafe 654.1 sección primera (Tarifas). Se plantea si el epígrafe 654.1 de la sección primera de las Tarifas, "Comercio al por menor de vehículos terrestres", faculta para la venta al por menor de estos productos.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0792-26</id>
+    <title>V0792-26 · Se plantea si se puede utilizar el valor de referencia del Catastro Inmobiliario como valor de transmisión del inmueble…</title>
+    <updated>2026-04-09T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0792-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0792-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: TRLRHL RD Leg. 2/2004. Artículo 104.. Se plantea si se puede utilizar el valor de referencia del Catastro Inmobiliario como valor de transmisión del inmueble, sustituyendo al precio pactado en la compraventa, y en su caso, si la Administración competente tiene que incoar un procedimiento de comprobación de valores p…</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0765-26</id>
+    <title>V0765-26 · Se plantea si el nuevo pacto de mejora está sujeto al Impuesto sobre el Incremento de Valor de los Terrenos de Naturale…</title>
+    <updated>2026-04-07T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0765-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0765-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: TRLRHL RD Leg. 2/2004. Artículos 104, 106 y 109.. Se plantea si el nuevo pacto de mejora está sujeto al Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0667-26</id>
+    <title>V0667-26 · Se plantea si resulta de aplicación lo dispuesto en la regla 7ª de la Instrucción relativa a la simultaneidad en el eje…</title>
+    <updated>2026-03-26T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0667-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0667-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: TRLRHL, RD Leg. 2/2004: arts. 78.1. TAR/INST IAE RD Leg. 1175/1990: Regla 2ª, 4ª.1, 4ª.2.A) y 7ª (Instrucción) y epígrafes 425.1 y 425.2 sección primera (Tarifas).. Se plantea si resulta de aplicación lo dispuesto en la regla 7ª de la Instrucción relativa a la simultaneidad en el ejercicio de actividades de fabricación.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0661-26</id>
+    <title>V0661-26 · Se plantea en qué rúbricas del impuesto se tiene que matricular.</title>
+    <updated>2026-03-25T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0661-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0661-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: TRLRHL, RD Leg. 2/2004: arts. 78.1 y 79.1. TAR/INST IAE RD Leg. 1175/1990: Regla 2ª, 3ª, 4ª.1 y 8ª (Instrucción) y epígrafe 899 sección segunda (Tarifas). Se plantea en qué rúbricas del impuesto se tiene que matricular.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0651-26</id>
+    <title>V0651-26 · Se plantea si goza de la exención en el Impuesto sobre Bienes Inmuebles prevista en el artículo 62.2.b) del TRLRHL.</title>
+    <updated>2026-03-20T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0651-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0651-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: TRLRHL, RD Leg. 2/2004: artículo 62.. Se plantea si goza de la exención en el Impuesto sobre Bienes Inmuebles prevista en el artículo 62.2.b) del TRLRHL.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0649-26</id>
+    <title>V0649-26 · Se plantea si los vehículos de movilidad personal están sujetos al impuesto tras la modificación del Reglamento General…</title>
+    <updated>2026-03-20T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0649-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0649-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: TRLRHL RD Leg. 2/2004 Artículo 92.. Se plantea si los vehículos de movilidad personal están sujetos al impuesto tras la modificación del Reglamento General de Vehículos</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0625-26</id>
+    <title>V0625-26 · Se plantea en qué rúbricas del impuesto se tiene que matricular</title>
+    <updated>2026-03-19T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0625-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0625-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: TRLRHL, RD Leg. 2/2004: arts. 78.1. TAR/INST IAE RD Leg. 1175/1990: Regla 2ª, 3ª, 4ª.1, 4ª.2.D) y 8ª (Instrucción) y grupo 647, epígrafes 673.2 y 677.9 sección primera (Tarifas). Se plantea en qué rúbricas del impuesto se tiene que matricular</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0624-26</id>
+    <title>V0624-26 · Se plantea si por la actividad expuesta tiene que matricularse en el epígrafe 691.1 del impuesto, "Reparación de artícu…</title>
+    <updated>2026-03-19T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0624-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0624-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: TAR/INST IAE RD Leg. 1175/1990 regla 4ª.1 (Instrucción), y epígrafes 691.1 y 691.2 sección primera (Tarifas).. Se plantea si por la actividad expuesta tiene que matricularse en el epígrafe 691.1 del impuesto, "Reparación de artículos eléctricos para el hogar", o si tiene que darse de alta en alguna otra rúbrica.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0594-26</id>
+    <title>V0594-26 · Se plantea la posibilidad de utilizar el valor de declaración de obra nueva como equivalente al valor de adquisición de…</title>
+    <updated>2026-03-13T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0594-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0594-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: TRLRHL RD Leg. 2/2004. Artículos 104, 106, 107 y 109. Se plantea la posibilidad de utilizar el valor de declaración de obra nueva como equivalente al valor de adquisición del terreno a efectos del Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0593-26</id>
+    <title>V0593-26 · Se plantea si los puntos de recarga de vehículos eléctricos ubicados en el garaje tienen la consideración de servicio c…</title>
+    <updated>2026-03-13T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0593-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0593-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: TAR/INST IAE RD Leg. 1175/1990 regla 4ª.2.F) (Instrucción), y grupo 681 y epígrafe 664.2 sección primera (Tarifas).. Se plantea si los puntos de recarga de vehículos eléctricos ubicados en el garaje tienen la consideración de servicio complementario de acuerdo con lo previsto en la regla 4ª.2.F) de la Instrucción, o debe matricularse en la rúbrica 664.2 del impuesto, "Puntos de recarga de vehí…</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0530-26</id>
+    <title>V0530-26 · Se plantea en qué rúbricas del impuesto se tiene que matricular.</title>
+    <updated>2026-03-06T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0530-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0530-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: TRLRHL, RD Leg. 2/2004: arts. 78.1. TAR/INST IAE RD Leg. 1175/1990: Regla 2ª, 3ª, 4ª.1 y 8ª (Instrucción) y epígrafe 869 sección segunda (Tarifas). Se plantea en qué rúbricas del impuesto se tiene que matricular.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0523-26</id>
+    <title>V0523-26 · Se plantea si la operación expuesta está no sujeta al Impuesto sobre el Incremento de Valor de los Terrenos de Naturale…</title>
+    <updated>2026-03-05T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0523-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0523-26.md" />
+    <category term="tributos-locales" label="SG de Tributos Locales" />
+    <summary>SG de Tributos Locales. Normativa: TRLRHL RD Leg. 2/2004. Artículos 104, 106 y 107.. Se plantea si la operación expuesta está no sujeta al Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana de acuerdo con lo previsto en el artículo 104.5 del TRLRHL.</summary>
+  </entry>
+</feed>

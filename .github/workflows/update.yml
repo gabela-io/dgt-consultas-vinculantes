@@ -1,0 +1,79 @@
+name: Update corpus
+
+on:
+  schedule:
+    - cron: "17 5 * * 1" # Mondays, 05:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-corpus
+  cancel-in-progress: false
+
+jobs:
+  update:
+    name: Fetch new consultas from PETETE
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - name: Checkout
+        uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@1c37ad07a6a961277cf70c0d37d6f313000f5884 # v10.3.0
+
+      # --update re-paginates the current year, so rulings published since the
+      # last run are found. In January, also re-check last year: the DGT keeps
+      # publishing December rulings for a few weeks.
+      #
+      # fetch exits 3 when it finished but some documents failed: what it did
+      # save is still committed below, and the last step fails the job. Any
+      # other non-zero status (e.g. a rejected search index) also fails it.
+      - name: Fetch new consultas
+        run: |
+          status=0
+          uv run --locked dgt-consultas fetch --update || status=$?
+          if [ "$(date -u +%m)" = "01" ]; then
+            uv run --locked dgt-consultas fetch --year "$(( $(date -u +%Y) - 1 ))" --refresh-index || status=$?
+          fi
+          echo "FETCH_STATUS=${status}" >> "$GITHUB_ENV"
+          echo "fetch exit status: ${status}" >> "$GITHUB_STEP_SUMMARY"
+
+      # The golden test pins the Markdown format against a real PETETE page;
+      # validate catches malformed files the scraper may have just written.
+      - name: Check the Markdown format
+        run: |
+          uv run --locked pytest -q
+          uv run --locked dgt-consultas validate
+
+      - name: Commit and push
+        run: |
+          if [ -z "$(git status --porcelain -- consultas)" ]; then
+            echo "No new or changed consultas." | tee -a "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
+          uv run --locked python scripts/update_readme_date.py
+          uv run --locked dgt-consultas feeds
+          uv run --locked dgt-consultas status
+          git add -A -- consultas search_index metadata.json README.md docs status
+          added=$(git diff --cached --name-only --diff-filter=A -- consultas | wc -l)
+          changed=$(git diff --cached --name-only --diff-filter=M -- consultas | wc -l)
+          echo "added ${added}, changed ${changed} consultas" >> "$GITHUB_STEP_SUMMARY"
+          git -c user.name="github-actions[bot]" \
+              -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+              commit -m "corpus: +${added} new, ${changed} changed consultas ($(date -u +%F))"
+          # Something may have landed on main during a long run: rebase and retry.
+          for attempt in 1 2 3; do
+            git pull --rebase --quiet origin "${GITHUB_REF_NAME}" && git push && exit 0
+            sleep $((attempt * 10))
+          done
+          echo "push failed after 3 attempts" >> "$GITHUB_STEP_SUMMARY"
+          exit 1
+
+      - name: Report fetch errors
+        if: env.FETCH_STATUS != '0'
+        run: |
+          echo "fetch exited with ${FETCH_STATUS}: some consultas were not downloaded; see the fetch step log." | tee -a "$GITHUB_STEP_SUMMARY"
+          exit 1

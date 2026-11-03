@@ -1,0 +1,99 @@
+{
+  "skill_name": "nix-blueprint",
+  "evals": [
+    {
+      "id": 1,
+      "name": "missing-package-after-creation",
+      "prompt": "I'm in a repo whose flake.nix outputs are `inputs: inputs.blueprint { inherit inputs; prefix = \"nix\"; }`. I just created nix/packages/mytool/default.nix and nix/packages/mytool/package.nix, but `nix build .#mytool` says the attribute 'mytool' is missing and `nix flake show` doesn't list it. The nix files evaluate fine when I import them manually. What's wrong?",
+      "trap": "The evaluation-looks-fine detail tempts a deep dive into the nix expressions; the actual cause is that untracked files are invisible to flake evaluation",
+      "assertions": [
+        { "id": "1.1", "text": "Identifies untracked files as the primary suspect and asks for or runs git status" },
+        { "id": "1.2", "text": "States that git add (staging) is sufficient, no commit needed" },
+        { "id": "1.3", "text": "Does not propose editing flake.nix to register the package (blueprint has no registration step)" },
+        { "id": "1.4", "text": "Mentions meta.platforms filtering or name shadowing only as secondary checks, if at all" }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "add-package-two-file-pattern",
+      "prompt": "This repo uses blueprint with prefix = \"nix\" and already has nix/devshell.nix and nix/formatter.nix. Add a Nix package for the Go CLI that lives in this repo (standard go.mod at the repo root), so `nix build .#mycli` works.",
+      "trap": "Tempts writing a single default.nix that declares { buildGoModule, lib }: directly, which fails because blueprint's callPackage scope only has inputs/flake/pkgs/system/perSystem/pname",
+      "assertions": [
+        { "id": "2.1", "text": "Creates nix/packages/mycli/ (directory with default.nix, or a single mycli.nix) — not an entry in flake.nix" },
+        { "id": "2.2", "text": "The file loaded by blueprint only requests arguments from the blueprint scope (pkgs, flake, perSystem, inputs, system, pname)" },
+        { "id": "2.3", "text": "If a nixpkgs-style package.nix is written, it is bridged via pkgs.callPackage ./package.nix { ... } from the default.nix shim" },
+        { "id": "2.4", "text": "Uses the flake (or a path within it) as src, e.g. src = flake" },
+        { "id": "2.5", "text": "Reminds to git add the new files or verifies visibility with nix flake show / nix eval" }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "wrong-scope-argument-error",
+      "prompt": "In a blueprint repo, nix build fails with: error: evaluation aborted with the following error message: 'lib.customisation.callPackageWith: Function called without required argument \"stdenv\" at /nix/store/...-source/nix/packages/tool.nix:1'. The file starts with `{ stdenv, lib }:`. Fix it.",
+      "trap": "Tempts adding stdenv to some configuration or overlay; the fix is understanding the fixed per-system scope",
+      "assertions": [
+        { "id": "3.1", "text": "Explains that blueprint files receive only inputs/flake/pkgs/system/perSystem/pname, not arbitrary nixpkgs attributes" },
+        { "id": "3.2", "text": "Fixes by taking pkgs and using pkgs.stdenv/pkgs.lib, or by moving the nixpkgs-style code to a package.nix loaded via pkgs.callPackage" },
+        { "id": "3.3", "text": "Does not suggest overlays or modifying flake.nix to inject stdenv" }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "formatter-check-never-runs",
+      "prompt": "Our blueprint repo has a treefmt-based nix/formatter.nix that ends with: formatter // { meta = formatter.meta // { tests = { check = check; }; }; }. CI runs `nix flake check` and it's green, but I broke formatting on purpose and it stayed green. checks.x86_64-linux shows pkgs-formatter but no pkgs-formatter-check. Why doesn't the check run?",
+      "trap": "Everything looks wired up; the bug is meta.tests vs passthru.tests — blueprint only collects passthru.tests into checks",
+      "assertions": [
+        { "id": "4.1", "text": "Identifies that blueprint collects passthru.tests, and meta.tests is silently ignored" },
+        { "id": "4.2", "text": "Rewrites the tail to formatter // { passthru = formatter.passthru // { tests.check = check; }; } or equivalent" },
+        { "id": "4.3", "text": "Verifies with nix eval .#checks.<system> --apply builtins.attrNames that pkgs-formatter-check now appears" }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "add-nixos-host-with-input-modules",
+      "prompt": "This blueprint repo (no prefix) already has hosts/sirius/configuration.nix and modules/nixos/{core,networking}.nix. Add a new host 'orion' (x86_64-linux) that needs the disko module from inputs.disko and should reuse the existing shared nixos modules.",
+      "trap": "configuration.nix alone gives no place to import inputs.disko.nixosModules.disko into the module list; the established pattern is the hosts/<name>/default.nix escape hatch returning { class, value }",
+      "assertions": [
+        { "id": "5.1", "text": "Creates files under hosts/orion/ rather than editing flake.nix" },
+        { "id": "5.2", "text": "Either uses hosts/orion/default.nix returning { class = \"nixos\"; value = nixosSystem { ... }; } to inject disko's module, or imports the disko module from within configuration.nix via inputs — and wires specialArgs (flake/inputs/hostName) if hand-rolling nixosSystem" },
+        { "id": "5.3", "text": "Reuses shared modules via flake.modules.nixos.* (or inputs.self.nixosModules)" },
+        { "id": "5.4", "text": "Sets nixpkgs.hostPlatform (or system) for the host" },
+        { "id": "5.5", "text": "Knows the output will appear as nixosConfigurations.orion and can be checked with nix eval .#nixosConfigurations --apply builtins.attrNames" }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "flake-show-broken-by-wip-host",
+      "prompt": "After I created an empty directory hosts/newbox/ (I planned to fill it in later, it only has a .gitkeep) in our blueprint repo, `nix flake show` now fails with: error: host 'newbox' does not have a configuration. Other outputs won't evaluate either. What are my options?",
+      "trap": "Tempts blaming the newest configuration.nix or nix version; the rule is that every hosts/<name>/ directory must contain a recognized configuration file or home users, otherwise evaluation of host outputs throws",
+      "assertions": [
+        { "id": "6.1", "text": "Explains that hosts/<name>/ must contain default.nix, configuration.nix, darwin-configuration.nix, system-configuration.nix, rpi-configuration.nix, or users/ home configs" },
+        { "id": "6.2", "text": "Offers removing the directory or adding a minimal recognized file as the fix" },
+        { "id": "6.3", "text": "Notes the throw breaks host-derived outputs globally, which is why unrelated outputs failed" }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "new-project-setup",
+      "prompt": "Set up a new Nix flake for a Python project using numtide/blueprint. I want the nix files under a nix/ directory, a default devshell with python313 and uv, and a treefmt formatter. Nothing else yet.",
+      "trap": "Tempts writing devShells/formatter outputs by hand in flake.nix, or forgetting prefix must match the directory, or forgetting git add before the first nix develop",
+      "assertions": [
+        { "id": "7.1", "text": "flake.nix outputs are just inputs.blueprint { inherit inputs; prefix = \"nix\"; } with nixpkgs+blueprint (and treefmt-nix) inputs — no hand-written devShells/formatter attributes" },
+        { "id": "7.2", "text": "Creates nix/devshell.nix taking { pkgs } or { pkgs, perSystem } and evaluating to a mkShell derivation" },
+        { "id": "7.3", "text": "Creates nix/formatter.nix (e.g. treefmt-nix mkWrapper) rather than a formatter output in flake.nix" },
+        { "id": "7.4", "text": "Runs or instructs git init/git add before testing with nix develop / nix flake show" }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "shadowed-directory-edit-does-nothing",
+      "prompt": "In our blueprint repo, editing nix/packages/agent/default.nix does nothing — nix build .#agent keeps producing the old derivation, even after git add -A and with no eval cache. There is also a file nix/packages/agent.nix from an old refactor. Why are my edits ignored?",
+      "trap": "The stale-cache red herring; the real cause is that agent.nix shadows the agent/ directory in blueprint's importDir (nix files take precedence over directories of the same name)",
+      "assertions": [
+        { "id": "8.1", "text": "Identifies that packages/agent.nix takes precedence over packages/agent/ and the directory is silently ignored" },
+        { "id": "8.2", "text": "Fix: delete or rename one of the two (keep a single source)" },
+        { "id": "8.3", "text": "Does not send the user chasing nix caches or store garbage collection" }
+      ]
+    }
+  ]
+}

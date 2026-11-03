@@ -1,0 +1,28 @@
+[project]
+name = "dgt-consultas"
+version = "0.1.0"
+description = "Scraper for the DGT consultas vinculantes published on PETETE"
+license = "MIT"
+requires-python = ">=3.11"
+dependencies = [
+  "beautifulsoup4>=4.12.0",
+  "click>=8.1.0",
+  "mcp>=1.20,<2",              # nixpkgs ships 1.x; 2.x renamed FastMCP
+  "python-frontmatter>=1.1.0",
+  "pyyaml>=6.0",
+  "requests>=2.31.0",
+  "snowballstemmer>=2.2",
+]
+
+[project.scripts]
+dgt-consultas = "dgt_consultas.cli:main"
+
+[build-system]
+requires = ["uv_build>=0.9,<0.12"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = ["pytest>=8.0"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

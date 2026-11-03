@@ -1,0 +1,34 @@
+[
+  {
+    "code": "bad_date",
+    "path": "consultas/2026/V0888-26.md"
+  },
+  {
+    "code": "empty_answer",
+    "path": "consultas/2019/V0763-19.md"
+  },
+  {
+    "code": "empty_answer",
+    "path": "consultas/2019/V2464-19.md"
+  },
+  {
+    "code": "empty_answer",
+    "path": "consultas/2022/V0405-22.md"
+  },
+  {
+    "code": "empty_answer",
+    "path": "consultas/2025/V1697-25.md"
+  },
+  {
+    "code": "empty_answer",
+    "path": "consultas/2025/V1928-25.md"
+  },
+  {
+    "code": "empty_consulta",
+    "path": "consultas/2025/V2260-25.md"
+  },
+  {
+    "code": "empty_consulta",
+    "path": "consultas/2026/V0888-26.md"
+  }
+]

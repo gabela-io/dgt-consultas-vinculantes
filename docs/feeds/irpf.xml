@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://gabela-io.github.io/dgt-consultas-vinculantes/feeds/irpf.xml</id>
+  <title>Consultas vinculantes DGT: IRPF</title>
+  <subtitle>Consultas vinculantes de la Dirección General de Tributos. Origen de los datos: Ministerio de Hacienda.</subtitle>
+  <updated>2026-09-30T00:00:00Z</updated>
+  <link rel="self" href="https://gabela-io.github.io/dgt-consultas-vinculantes/feeds/irpf.xml" />
+  <link rel="alternate" href="https://github.com/gabela-io/dgt-consultas-vinculantes" />
+  <author>
+    <name>gabela-io (unofficial)</name>
+  </author>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5720-26</id>
+    <title>V5720-26 · Si puede aplicar la deducción por inversión en vivienda habitual por esta parte del préstamo hipotecario ampliado y en …</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5720-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5720-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - DT.18. Si puede aplicar la deducción por inversión en vivienda habitual por esta parte del préstamo hipotecario ampliado y en caso de que la respuesta sea negativa si también supondría la pérdida del derecho a continuar aplicando la deducción respecto de la parte del préstamo correspon…</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5719-26</id>
+    <title>V5719-26 · Posibilidad de declarar exenta la ganancia patrimonial que obtuvo en 2023 por aplicación del artículo 38 de la LIRPF.</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5719-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5719-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 38
+
+RD 439/2007 IRPF Reglamento Impuesto sobre la Renta de las Personas Físicas - 41 - 41 bis. Posibilidad de declarar exenta la ganancia patrimonial que obtuvo en 2023 por aplicación del artículo 38 de la LIRPF.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5718-26</id>
+    <title>V5718-26 · Si resultan deducibles las cuotas satisfechas al colegio profesional y, en particular, si el requisito de colegiación o…</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5718-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5718-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 19.2.d). Si resultan deducibles las cuotas satisfechas al colegio profesional y, en particular, si el requisito de colegiación obligatoria previsto en el artículo 19 de la Ley del IRPF se entiende cumplido por el mero ejercicio de la profesión de arquitecto o ingeniero o si es necesario …</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5717-26</id>
+    <title>V5717-26 · Efectos para un contribuyente del IRPF que ha aplicado la deducción por inversión en empresas de nueva o reciente creac…</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5717-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5717-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 68.1. Efectos para un contribuyente del IRPF que ha aplicado la deducción por inversión en empresas de nueva o reciente creación, pero que no transmite las acciones o participaciones antes del transcurso del plazo de doce años desde su adquisición.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5716-26</id>
+    <title>V5716-26 · A efectos de calcular la pérdida patrimonial derivada de la venta de acciones realizada, ¿qué tipo de cambio euro dólar…</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5716-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5716-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 33. A efectos de calcular la pérdida patrimonial derivada de la venta de acciones realizada, ¿qué tipo de cambio euro dólar debe considerar?</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5715-26</id>
+    <title>V5715-26 · Posibilidad de computar en el IRPF una pérdida patrimonial derivada del crédito impagado.</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5715-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5715-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 14 - 33. Posibilidad de computar en el IRPF una pérdida patrimonial derivada del crédito impagado.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5714-26</id>
+    <title>V5714-26 · Posibilidad por parte de la consultante de aplicar la deducción por inversión en vivienda habitual al 100%, en función …</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5714-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5714-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - DT.18. Posibilidad por parte de la consultante de aplicar la deducción por inversión en vivienda habitual al 100%, en función de la totalidad de los pagos que efectúa vinculados con el préstamo hipotecario, dado que los realiza en calidad de único propietario de la vivienda.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5713-26</id>
+    <title>V5713-26 · Si le resultará aplicable el régimen especial regulado en el artículo 93 de la Ley del Impuesto sobre la Renta de las P…</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5713-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5713-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 93. Si le resultará aplicable el régimen especial regulado en el artículo 93 de la Ley del Impuesto sobre la Renta de las Personas Físicas.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5712-26</id>
+    <title>V5712-26 · Si la vivienda adquirida el 31 de enero de 2022 puede tener la consideración de vivienda habitual a efectos de la exenc…</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5712-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5712-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 38
+
+RD 439/2007 IRPF Reglamento Impuesto sobre la Renta de las Personas Físicas - 41 - 41 bis. Si la vivienda adquirida el 31 de enero de 2022 puede tener la consideración de vivienda habitual a efectos de la exención por reinversión, pese a su transmisión antes del plazo de tres años, por concurrir circunstancias que exigen el cambio de domicilio u otras circunstancias a…</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5711-26</id>
+    <title>V5711-26 · Exención de las participaciones en el Impuesto sobre el Patrimonio y aplicación a la donación de las participaciones so…</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5711-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5711-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 33.3.c)
+
+Ley 19/1991 Impuesto sobre el Patrimonio - 4
+
+Ley 29/1987 Impuesto sobre Sucesiones y Donaciones - 20.6. Exención de las participaciones en el Impuesto sobre el Patrimonio y aplicación a la donación de las participaciones sociales la reducción del 99 por ciento en el Impuesto sobre Sucesiones y Donaciones, prevista en la normativa autonómica valenciana, así como lo dispuesto en el …</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5710-26</id>
+    <title>V5710-26 · Solicita conocer a qué período se imputan los rendimientos del capital inmobiliario generados en un período impositivo …</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5710-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5710-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 22 - 27. Solicita conocer a qué período se imputan los rendimientos del capital inmobiliario generados en un período impositivo pero cobrados en el siguiente.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5709-26</id>
+    <title>V5709-26 · Cuál sería el valor de adquisición de las acciones vendidas a efectos del cálculo de la ganancia o pérdida patrimonial …</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5709-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5709-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 33 - 34 - 35 - 36. Cuál sería el valor de adquisición de las acciones vendidas a efectos del cálculo de la ganancia o pérdida patrimonial obtenido en la venta y si le resulta de aplicación el párrafo segundo del artículo 36 de la Ley del Impuesto sobre la Renta de las Personas Físicas</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5708-26</id>
+    <title>V5708-26 · Si está obligado a presentar declaración por la ganancia patrimonial que obtendría teniendo en cuenta que no ha obtenid…</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5708-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5708-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 96. Si está obligado a presentar declaración por la ganancia patrimonial que obtendría teniendo en cuenta que no ha obtenido otras rentas por las que tenga obligación de declarar.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5707-26</id>
+    <title>V5707-26 · Si existe algún beneficio fiscal en IRPF por la contratación de una empleada de hogar para la atención y cuidado de su …</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5707-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5707-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF -. Si existe algún beneficio fiscal en IRPF por la contratación de una empleada de hogar para la atención y cuidado de su madre dependiente.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5706-26</id>
+    <title>V5706-26 · Si resulta de aplicación la exención del artículo 33.4.b) de la LIRPF.</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5706-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5706-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 33.4.b). Si resulta de aplicación la exención del artículo 33.4.b) de la LIRPF.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5705-26</id>
+    <title>V5705-26 · Aplicación de la exención recogida en el artículo 42.3.c) de la Ley 35/2006.</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5705-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5705-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 42.3.c). Aplicación de la exención recogida en el artículo 42.3.c) de la Ley 35/2006.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5704-26</id>
+    <title>V5704-26 · Tratamiento fiscal del importe pagado; si puede aplicar una reducción en la base imponible.</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5704-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5704-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 7 - 17 - 55. Tratamiento fiscal del importe pagado; si puede aplicar una reducción en la base imponible.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5703-26</id>
+    <title>V5703-26 · Posibilidad de aplicarse la deducción por obras de rehabilitación energética en viviendas prevista en el apartado 3 de …</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5703-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5703-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - DA.50. Posibilidad de aplicarse la deducción por obras de rehabilitación energética en viviendas prevista en el apartado 3 de la disposición adicional 50ª de la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5702-26</id>
+    <title>V5702-26 · Si a efectos de la exención por reinversión en vivienda habitual puede considerar que la que se transmite es su viviend…</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5702-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5702-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 38
+
+RD 439/2007 IRPF Reglamento Impuesto sobre la Renta de las Personas Físicas - 41 - 41 bis. Si a efectos de la exención por reinversión en vivienda habitual puede considerar que la que se transmite es su vivienda habitual.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5701-26</id>
+    <title>V5701-26 · Imputación temporal de los incrementos salariales.</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5701-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5701-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 14. Imputación temporal de los incrementos salariales.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5700-26</id>
+    <title>V5700-26 · Aplicación de la exención por reinversión en vivienda habitual.</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5700-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5700-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 38
+
+RD 439/2007 IRPF Reglamento Impuesto sobre la Renta de las Personas Físicas - 41 - 41 bis. Aplicación de la exención por reinversión en vivienda habitual.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5699-26</id>
+    <title>V5699-26 · Si la transmisión de dichos bienes se encuentra amparada por lo dispuesto en el artículo 33.3.b) de la Ley del IRPF.</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5699-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5699-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 33.3.b). Si la transmisión de dichos bienes se encuentra amparada por lo dispuesto en el artículo 33.3.b) de la Ley del IRPF.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5698-26</id>
+    <title>V5698-26 · Requisitos y plazo para aplicar la exención por reinversión en vivienda habitual en un supuesto como este de construcci…</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5698-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5698-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 38
+
+RD 439/2007 IRPF Reglamento Impuesto sobre la Renta de las Personas Físicas - 41 - 41 bis. Requisitos y plazo para aplicar la exención por reinversión en vivienda habitual en un supuesto como este de construcción mediante autopromoción y qué se considera importe reinvertido.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5697-26</id>
+    <title>V5697-26 · Posibilidad de aplicar la exención por reinversión del artículo 38 de la LIRPF a la ganancia patrimonial que se genere.</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5697-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5697-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 38
+
+RD 439/2007 IRPF Reglamento Impuesto sobre la Renta de las Personas Físicas - 41 - 41 bis. Posibilidad de aplicar la exención por reinversión del artículo 38 de la LIRPF a la ganancia patrimonial que se genere.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5696-26</id>
+    <title>V5696-26 · Tributación en el IRPF de su aportación.</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5696-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5696-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 8 - 11 - 33 - 34 - 35 - 36 - 48 - 49. Tributación en el IRPF de su aportación.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5695-26</id>
+    <title>V5695-26 · Si resulta aplicable la exención por reinversión en vivienda habitual y plazos para efectuar la reinversión.</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5695-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5695-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 38
+
+RD 439/2007 IRPF Reglamento Impuesto sobre la Renta de las Personas Físicas - 41 - 41 bis. Si resulta aplicable la exención por reinversión en vivienda habitual y plazos para efectuar la reinversión.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5694-26</id>
+    <title>V5694-26 · Conocer si está obligado, en su condición de contribuyente acogido al mencionado régimen especial de tributación, a pre…</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5694-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5694-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 93. Conocer si está obligado, en su condición de contribuyente acogido al mencionado régimen especial de tributación, a presentar el modelo 720 de declaración informativa sobre bienes y derechos situados en el extranjero.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5693-26</id>
+    <title>V5693-26 · Coeficiente lineal máximo anual por el que puede amortizarse la máquina de segunda mano y desde qué momento puede inici…</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5693-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5693-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 28 - 30
+
+RD 439/2007 IRPF Reglamento Impuesto sobre la Renta de las Personas Físicas - 30
+
+RD 634/2015 Reglamento Impuesto sobre Sociedades - 3.3 - 4.3. Coeficiente lineal máximo anual por el que puede amortizarse la máquina de segunda mano y desde qué momento puede iniciar su amortización.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5692-26</id>
+    <title>V5692-26 · Consecuencias fiscales de la aportación del vehículo a su patrimonio protegido y de su consideración como bien integran…</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5692-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5692-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 33 - 54. Consecuencias fiscales de la aportación del vehículo a su patrimonio protegido y de su consideración como bien integrante de dicho patrimonio, así como procedimiento y requisitos fiscales para su venta y sustitución por otro vehículo destinado a la misma finalidad, incluyendo el…</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5691-26</id>
+    <title>V5691-26 · Si en tal caso resulta de aplicación la exención por reinversión en vivienda habitual.</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5691-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5691-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 38
+
+RD 439/2007 IRPF Reglamento Impuesto sobre la Renta de las Personas Físicas - 41 - 41 bis. Si en tal caso resulta de aplicación la exención por reinversión en vivienda habitual.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5690-26</id>
+    <title>V5690-26 · En relación con “la asistencia presencial, en el extranjero, a reuniones relacionadas con el inicio, coordinación y seg…</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5690-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5690-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 7
+
+RD 439/2007 IRPF Reglamento Impuesto sobre la Renta de las Personas Físicas - 6. En relación con “la asistencia presencial, en el extranjero, a reuniones relacionadas con el inicio, coordinación y seguimiento de proyectos europeos desarrollados en consorcio”, conocer si tales actividades pueden calificarse como “trabajos efectivamente realizados en el extran…</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5689-26</id>
+    <title>V5689-26 · 1º) Tributación correspondiente a la hija por la aportación realizada y por la transmisión de los valores aportados. 2º…</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5689-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5689-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 11 - 33 - 36 - 54
+
+Ley 29/1987 Impuesto sobre Sucesiones y Donaciones - 3 - 9
+
+Ley 19/1991 Impuesto sobre el Patrimonio - 15. 1º) Tributación correspondiente a la hija por la aportación realizada y por la transmisión de los valores aportados. 2º) Efectos sobre la reducción a aplicar en el IRPF del consultante por la aportación realizada, en caso de transmisión de los valores antes del transcurso plazo …</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5688-26</id>
+    <title>V5688-26 · Si puede aplicar la exención por reinversión en vivienda habitual, en caso de que reinvierta el importe de dicha venta …</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5688-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5688-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 38. Si puede aplicar la exención por reinversión en vivienda habitual, en caso de que reinvierta el importe de dicha venta en una nueva vivienda ubicada en el país al que traslade su residencia.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5687-26</id>
+    <title>V5687-26 · Posibilidad de aplicar la exención por reinversión en vivienda habitual y, en su caso, cuál sería la forma de reflejarl…</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5687-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5687-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 38
+
+RD 439/2007 IRPF Reglamento Impuesto sobre la Renta de las Personas Físicas - 41 - 41 bis. Posibilidad de aplicar la exención por reinversión en vivienda habitual y, en su caso, cuál sería la forma de reflejarlo en la declaración de la renta del ejercicio 2024, ya que la consultante no declaró la ganancia exenta por reinversión en dicha declaración pese a tener la int…</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5686-26</id>
+    <title>V5686-26 · Para el cálculo de la ganancia patrimonial que obtuviera el consultante por la venta a un tercero del bien heredado por…</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5686-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5686-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 33 - 34 - 35 - 36 -. Para el cálculo de la ganancia patrimonial que obtuviera el consultante por la venta a un tercero del bien heredado por pacto de mejora, se consulta: Al ser vendido el bien antes de los 5 años y por lo tanto proceder la subrogación del consultante en la fecha y valor de adquisic…</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5685-26</id>
+    <title>V5685-26 · Solicita conocer si la vivienda tiene la consideración de vivienda habitual a efectos de la aplicación de la exención p…</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5685-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5685-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 33.4.b) - 38
+
+RD 439/2007 IRPF Reglamento Impuesto sobre la Renta de las Personas Físicas - 41 - 41 bis. Solicita conocer si la vivienda tiene la consideración de vivienda habitual a efectos de la aplicación de la exención para mayores de 65 años prevista en el artículo 33.4.b) de la LIRPF o de la exención por reinversión en vivienda habitual.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5684-26</id>
+    <title>V5684-26 · Tratamiento fiscal aplicable a las primas de seguro, en particular: 1º Si deben considerarse retribución en especie del…</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5684-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5684-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 42.3. Tratamiento fiscal aplicable a las primas de seguro, en particular: 1º Si deben considerarse retribución en especie del trabajador. 2º Si resulta aplicable la exención del artículo 42.3.c) LIRPF por los primeros 500 € anuales de prima de la cónyuge. 3º En caso de error de la emp…</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5683-26</id>
+    <title>V5683-26 · Cálculo de la ganancia o pérdida patrimonial en el Impuesto sobre la Renta de las Personas Físicas.</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5683-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5683-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 33 - 35 - 36. Cálculo de la ganancia o pérdida patrimonial en el Impuesto sobre la Renta de las Personas Físicas.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5682-26</id>
+    <title>V5682-26 · Determinación, a efectos del cálculo de la ganancia patrimonial derivada de la venta del inmueble en el IRPF, de la fec…</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5682-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5682-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 33 - 34 - 35 - 36. Determinación, a efectos del cálculo de la ganancia patrimonial derivada de la venta del inmueble en el IRPF, de la fecha y del valor de adquisición que deben tomarse en consideración.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5681-26</id>
+    <title>V5681-26 · Si dicho inmueble reúne las condiciones para considerarlo vivienda habitual y poder así beneficiarse de la exención por…</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5681-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5681-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 38
+
+RD 439/2007 IRPF Reglamento Impuesto sobre la Renta de las Personas Físicas - 41 - 41 bis. Si dicho inmueble reúne las condiciones para considerarlo vivienda habitual y poder así beneficiarse de la exención por reinversión en vivienda habitual.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5680-26</id>
+    <title>V5680-26 · Posibilidad de aplicar la exención por reinversión en vivienda habitual del artículo 38 de la LIRPF.</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5680-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5680-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 38
+
+RD 439/2007 IRPF Reglamento Impuesto sobre la Renta de las Personas Físicas - 41 - 41 bis. Posibilidad de aplicar la exención por reinversión en vivienda habitual del artículo 38 de la LIRPF.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5679-26</id>
+    <title>V5679-26 · Conocer si puede solicitar el abono anticipado de la deducción por familia numerosa (mediante la presentación del model…</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5679-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5679-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 93
+
+RD 439/2007 IRPF Reglamento Impuesto sobre la Renta de las Personas Físicas - 114. Conocer si puede solicitar el abono anticipado de la deducción por familia numerosa (mediante la presentación del modelo 143).</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5678-26</id>
+    <title>V5678-26 · La consultante plantea si, en la transmisión de un inmueble, son susceptibles de alguna reducción previa los importes d…</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5678-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5678-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 33 - 34 - 35 - 36. La consultante plantea si, en la transmisión de un inmueble, son susceptibles de alguna reducción previa los importes de los valores de adquisición y de transmisión al calcular la ganancia o pérdida patrimonial.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5677-26</id>
+    <title>V5677-26 · Posibilidad de aplicar la exención por reinversión en vivienda habitual a la ganancia patrimonial que se genere en las …</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5677-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5677-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 38
+
+RD 439/2007 IRPF Reglamento Impuesto sobre la Renta de las Personas Físicas - 41 - 41 bis. Posibilidad de aplicar la exención por reinversión en vivienda habitual a la ganancia patrimonial que se genere en las transmisiones de las viviendas A y B.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5676-26</id>
+    <title>V5676-26 · Tratamiento fiscal en el Impuesto sobre la Renta de las Personas Físicas.</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5676-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5676-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 33. Tratamiento fiscal en el Impuesto sobre la Renta de las Personas Físicas.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5675-26</id>
+    <title>V5675-26 · Si tiene que imputar rentas inmobiliarias en el Impuesto sobre la Renta de las Personas Físicas por la mitad de su vivi…</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5675-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5675-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 85. Si tiene que imputar rentas inmobiliarias en el Impuesto sobre la Renta de las Personas Físicas por la mitad de su vivienda que está siendo utilizada por su expareja.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5674-26</id>
+    <title>V5674-26 · Posibilidad de aplicar la exención por reinversión en vivienda habitual.</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5674-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5674-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 38
+
+RD 439/2007 IRPF Reglamento Impuesto sobre la Renta de las Personas Físicas - 41 - 41 bis. Posibilidad de aplicar la exención por reinversión en vivienda habitual.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5673-26</id>
+    <title>V5673-26 · Posibilidad de comenzar ahora a aplicar la deducción por inversión en vivienda habitual.</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5673-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5673-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - DT.18. Posibilidad de comenzar ahora a aplicar la deducción por inversión en vivienda habitual.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5672-26</id>
+    <title>V5672-26 · Solicita conocer si las cantidades satisfechas por el alquiler de la vivienda pueden considerarse gasto deducible de su…</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5672-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5672-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 28. Solicita conocer si las cantidades satisfechas por el alquiler de la vivienda pueden considerarse gasto deducible de su actividad económica en el IRPF.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5671-26</id>
+    <title>V5671-26 · Si dichos gastos se pueden considerar como importe reinvertido.</title>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5671-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5671-26.md" />
+    <category term="irpf" label="SG de Impuestos sobre la Renta de las Personas Físicas" />
+    <summary>SG de Impuestos sobre la Renta de las Personas Físicas. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 38
+
+RD 439/2007 IRPF Reglamento Impuesto sobre la Renta de las Personas Físicas - 41 - 41 bis. Si dichos gastos se pueden considerar como importe reinvertido.</summary>
+  </entry>
+</feed>

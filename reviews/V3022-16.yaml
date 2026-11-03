@@ -1,0 +1,6 @@
+number: V3022-16
+status: superseded
+reviewed: 2026-10-19
+by: gabela
+note: >-
+  The criterion on where the service is supplied still holds, but the form-303 box it cites (61) no longer exists: services not subject to Spanish VAT by the place-of-supply rules now go in box 120 (current AEAT instructions). Box 110 of form 390 is unchanged.

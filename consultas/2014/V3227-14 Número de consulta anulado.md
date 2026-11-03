@@ -1,0 +1,19 @@
+---
+fecha: '2014-12-01'
+normativa: ''
+numero: V3227-14 Número de consulta anulado
+organo: ''
+url: https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V3227-14
+---
+
+# Consulta Vinculante V3227-14 Número de consulta anulado
+
+## Descripcion de hechos
+
+
+
+## Cuestion planteada
+
+
+
+## Contestacion

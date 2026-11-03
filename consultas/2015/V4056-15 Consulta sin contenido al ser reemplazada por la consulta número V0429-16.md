@@ -1,0 +1,20 @@
+---
+fecha: '2015-12-16'
+normativa: ''
+numero: V4056-15 Consulta sin contenido al ser reemplazada por la consulta número
+  V0429-16
+organo: ''
+url: https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V4056-15
+---
+
+# Consulta Vinculante V4056-15 Consulta sin contenido al ser reemplazada por la consulta número V0429-16
+
+## Descripcion de hechos
+
+
+
+## Cuestion planteada
+
+
+
+## Contestacion

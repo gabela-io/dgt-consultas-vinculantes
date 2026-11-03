@@ -1,0 +1,80 @@
+{
+  "skill_name": "nix-treefmt-formatter",
+  "evals": [
+    {
+      "id": 1,
+      "name": "check-never-runs",
+      "prompt": "Our flake uses blueprint and nix/formatter.nix builds a treefmt wrapper ending with: formatter // { meta = formatter.meta // { tests = { check = check; }; }; }. CI runs nix flake check and stays green even when I commit deliberately misformatted Nix code. Why, and how do I fix it?",
+      "trap": "The green CI tempts blaming treefmt config or cache; the real bug is meta.tests — the check derivation is never collected into checks",
+      "assertions": [
+        { "id": "1.1", "text": "Identifies that tests must live under passthru.tests, not meta.tests" },
+        { "id": "1.2", "text": "Rewrites the tail as formatter // { passthru = formatter.passthru // { tests.check = check; }; }" },
+        { "id": "1.3", "text": "Verifies pkgs-formatter-check appears via nix eval .#checks.<sys> --apply builtins.attrNames" },
+        { "id": "1.4", "text": "Does not blame treefmt cache or suggest deleting .direnv/store paths" }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "add-python-formatting",
+      "prompt": "Add Python formatting and linting to this repo's existing nix/formatter.nix (it already handles nix and shell via treefmt-nix mkWrapper). We use ruff.",
+      "trap": "Tempts enabling ruff-format only, enabling both without priorities so order falls to name order, or cargo-culting the nonexistent pipeline option",
+      "assertions": [
+        { "id": "2.1", "text": "Enables both ruff-check and ruff-format in programs" },
+        { "id": "2.2", "text": "Orders them with priority: ruff-check priority 1, ruff-format priority 2 (and does not use the nonexistent pipeline option)" },
+        { "id": "2.3", "text": "Edits formatter.nix only — no new flake outputs, no pre-commit hooks invented" }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "vendored-tree-conflicts",
+      "prompt": "nix fmt keeps reformatting files under .agents/skills/ and .specify/ (vendored from upstream repos), so every upstream refresh produces a huge diff and shellcheck errors on scripts we don't own. Stop treefmt from touching them.",
+      "trap": "Tempts per-formatter excludes repeated N times or .gitignore hacks; the tool for this is settings.global.excludes",
+      "assertions": [
+        { "id": "3.1", "text": "Adds settings.excludes (or the pre-rename settings.global.excludes) with the vendored globs (e.g. \".agents/**\", \".specify/**\")" },
+        { "id": "3.2", "text": "Does not suggest gitignoring tracked vendored files or disabling shellcheck globally" }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "envrc-not-formatted",
+      "prompt": "shellcheck and shfmt run via treefmt in our flake, but .envrc and .envrc.local never get checked or formatted even though they are tracked bash files. Why?",
+      "trap": "Tempts blaming treefmt file detection or git; the cause is that shell formatters only match *.sh/*.bash by default and need explicit includes",
+      "assertions": [
+        { "id": "4.1", "text": "Explains that .envrc doesn't match the default shell file patterns" },
+        { "id": "4.2", "text": "Adds includes = [ \"*.sh\" \"*.bash\" \"*.envrc\" \"*.envrc.*\" ] to BOTH shellcheck and shfmt formatter settings" }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "write-format-check-from-scratch",
+      "prompt": "Our blueprint repo has nix/formatter.nix with a working treefmt-nix mkWrapper but no format enforcement in CI. Add a check so nix flake check fails when the tree is not formatted. CI is Linux-only; don't add a new workflow job.",
+      "trap": "Tempts adding a separate CI job running nix fmt + git diff, or a non-hermetic check reading the working tree; the pattern is treefmt-nix's build.check (or an equivalent hermetic runCommand) attached via passthru.tests",
+      "assertions": [
+        { "id": "5.1", "text": "Uses evalModule's config.build.check flake (preferred) or an equivalent hermetic runCommand copying ${flake} and failing on git diff" },
+        { "id": "5.2", "text": "Attaches it via passthru.tests.check on the formatter derivation (no new flake.nix outputs, no CI job)" },
+        { "id": "5.3", "text": "Verifies by building checks.<sys>.pkgs-formatter-check" }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "deadnix-eats-module-arg",
+      "prompt": "After running nix fmt, a NixOS module broke: the { flake, ... } argument we kept for future use was deleted from the lambda header by the formatter. What happened and how do we keep intentionally-unused args?",
+      "trap": "Tempts disabling deadnix entirely; the targeted fixes are programs.deadnix.no-lambda-pattern-names (for callPackage-style pattern sets) or the underscore-prefix convention",
+      "assertions": [
+        { "id": "6.1", "text": "Identifies deadnix as the formatter that removes unused lambda args" },
+        { "id": "6.2", "text": "Recommends programs.deadnix.no-lambda-pattern-names = true and/or underscore-prefixed names (_flake) rather than disabling deadnix" }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "default-excludes-surprise",
+      "prompt": "Our treefmt-nix setup enables taplo and mdformat, but treefmt never touches go.mod, flake.lock or LICENSE even though they're tracked, and I never excluded them. Also, some stray .conf files get no formatting and no warning at all. Explain both and make uncovered files visible.",
+      "trap": "Tempts blaming includes patterns or the git walker; the causes are enableDefaultExcludes (true by default, covers *.lock, go.mod, LICENSE...) and on-unmatched defaulting to silence",
+      "assertions": [
+        { "id": "7.1", "text": "Attributes the skipped files to enableDefaultExcludes = true and lists that it covers lock files, go.mod/go.sum, LICENSE etc." },
+        { "id": "7.2", "text": "Sets settings.on-unmatched (e.g. \"warn\") to surface files no formatter covers" },
+        { "id": "7.3", "text": "Only disables enableDefaultExcludes if those files should genuinely be formatted" }
+      ]
+    }
+  ]
+}

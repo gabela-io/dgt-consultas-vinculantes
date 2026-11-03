@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://gabela-io.github.io/dgt-consultas-vinculantes/feeds/iva.xml</id>
+  <title>Consultas vinculantes DGT: IVA</title>
+  <subtitle>Consultas vinculantes de la Dirección General de Tributos. Origen de los datos: Ministerio de Hacienda.</subtitle>
+  <updated>2026-08-13T00:00:00Z</updated>
+  <link rel="self" href="https://gabela-io.github.io/dgt-consultas-vinculantes/feeds/iva.xml" />
+  <link rel="alternate" href="https://github.com/gabela-io/dgt-consultas-vinculantes" />
+  <author>
+    <name>gabela-io (unofficial)</name>
+  </author>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5473-26</id>
+    <title>V5473-26 · Si es posible la deducción de tales cuotas soportadas del Impuesto sobre el Valor Añadido actualmente tras haberse dado…</title>
+    <updated>2026-08-13T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5473-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5473-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Ley 37/1992 Impuesto sobre el Valor Añadido IVA - 100. Si es posible la deducción de tales cuotas soportadas del Impuesto sobre el Valor Añadido actualmente tras haberse dado de baja en la actividad.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5472-26</id>
+    <title>V5472-26 · Si los pagos del servicio de transporte escolar que realiza el consultante a la entidad prestadora del mismo, así como …</title>
+    <updated>2026-08-13T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5472-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5472-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Ley 37/1992 Impuesto sobre el Valor Añadido IVA - 78.2.3.b). Si los pagos del servicio de transporte escolar que realiza el consultante a la entidad prestadora del mismo, así como la prestación del servicio por parte del Ayuntamiento a los usuarios mediante el cobro de un precio público se encuentran sujetos al Impuesto sobre el Valor Aña…</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5465-26</id>
+    <title>V5465-26 · Sujeción al Impuesto sobre el Valor Añadido de dicha operación.</title>
+    <updated>2026-08-11T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5465-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5465-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Ley 37/1992 Impuesto sobre el Valor Añadido IVA - 11.2.15. Sujeción al Impuesto sobre el Valor Añadido de dicha operación.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5464-26</id>
+    <title>V5464-26 · Si la transmisión de dichas parcelas se encontraría sujeta al Impuesto sobre el Valor Añadido.</title>
+    <updated>2026-08-11T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5464-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5464-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Ley 37/1992 Impuesto sobre el Valor Añadido IVA - 5.1.d). Si la transmisión de dichas parcelas se encontraría sujeta al Impuesto sobre el Valor Añadido.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5463-26</id>
+    <title>V5463-26 · Si dichas cesiones de uso junto con los referidos servicios complementarios se encontrarían sujetas al Impuesto sobre e…</title>
+    <updated>2026-08-11T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5463-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5463-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Ley 37/1992 Impuesto sobre el Valor Añadido IVA - 7.8. Si dichas cesiones de uso junto con los referidos servicios complementarios se encontrarían sujetas al Impuesto sobre el Valor Añadido.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5462-26</id>
+    <title>V5462-26 · Tipo del Impuesto sobre el Valor Añadido aplicable a la transmisión de la referida vivienda.</title>
+    <updated>2026-08-11T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5462-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5462-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Ley 37/1992 Impuesto sobre el Valor Añadido IVA - 20.1.20. Tipo del Impuesto sobre el Valor Añadido aplicable a la transmisión de la referida vivienda.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5461-26</id>
+    <title>V5461-26 · A efectos del Impuesto sobre el Valor Añadido, se cuestiona si el proveedor está obligado a repercutir el recargo de eq…</title>
+    <updated>2026-08-11T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5461-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5461-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Ley 37/1992 Impuesto sobre el Valor Añadido IVA - 148. A efectos del Impuesto sobre el Valor Añadido, se cuestiona si el proveedor está obligado a repercutir el recargo de equivalencia al consultante.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5460-26</id>
+    <title>V5460-26 · A efectos del Impuesto sobre el Valor Añadido, se cuestiona la tributación de la operación</title>
+    <updated>2026-08-11T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5460-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5460-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Ley 37/1992 Impuesto sobre el Valor Añadido IVA - 91. A efectos del Impuesto sobre el Valor Añadido, se cuestiona la tributación de la operación</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5459-26</id>
+    <title>V5459-26 · A efectos del Impuesto sobre el Valor Añadido, se cuestiona el tipo impositivo aplicable a la venta de fertilizantes.</title>
+    <updated>2026-08-11T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5459-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5459-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Ley 37/1992 Impuesto sobre el Valor Añadido IVA - 91. A efectos del Impuesto sobre el Valor Añadido, se cuestiona el tipo impositivo aplicable a la venta de fertilizantes.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5458-26</id>
+    <title>V5458-26 · Si tiene que modificar las cuotas del Impuesto sobre el Valor Añadido soportadas y deducidas hasta el momento en la eje…</title>
+    <updated>2026-08-11T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5458-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5458-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Ley 37/1992 Impuesto sobre el Valor Añadido IVA - 9.1. Si tiene que modificar las cuotas del Impuesto sobre el Valor Añadido soportadas y deducidas hasta el momento en la ejecución de las obras de construcción y, en su caso, procedimiento para ello.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5456-26</id>
+    <title>V5456-26 · Devengo del Impuesto sobre el Valor Añadido en la entrega de los referidos medicamentos.</title>
+    <updated>2026-08-07T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5456-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5456-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Ley 37/1992 Impuesto sobre el Valor Añadido IVA - 75.1.1. Devengo del Impuesto sobre el Valor Añadido en la entrega de los referidos medicamentos.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5455-26</id>
+    <title>V5455-26 · Se cuestiona, a efectos del Impuesto sobre el Valor Añadido, si la construcción de la vivienda tributará al tipo imposi…</title>
+    <updated>2026-08-07T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5455-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5455-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Ley 37/1992 Impuesto sobre el Valor Añadido IVA - 91. Se cuestiona, a efectos del Impuesto sobre el Valor Añadido, si la construcción de la vivienda tributará al tipo impositivo reducido del 10 por ciento, conforme al artículo 91.Uno.3.1.º de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5450-26</id>
+    <title>V5450-26 · Si a la transmisión de las edificaciones terminadas que va a realizar la consultante le resultaría de aplicación el tip…</title>
+    <updated>2026-08-06T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5450-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5450-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Ley 37/1992 Impuesto sobre el Valor Añadido IVA - 20.1.22.B) - 91.1.1.7. Si a la transmisión de las edificaciones terminadas que va a realizar la consultante le resultaría de aplicación el tipo reducido previsto en el artículo 91.Uno.1.7º de la Ley 37/1992.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5449-26</id>
+    <title>V5449-26 · Si las obras de rehabilitación que se van a realizar tendrían la consideración de obras de rehabilitación y, en su caso…</title>
+    <updated>2026-08-06T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5449-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5449-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Ley 37/1992 Impuesto sobre el Valor Añadido IVA - 20.1.22.B). Si las obras de rehabilitación que se van a realizar tendrían la consideración de obras de rehabilitación y, en su caso, tipo del Impuesto sobre el Valor Añadido aplicable a las mismas.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5448-26</id>
+    <title>V5448-26 · Sujeción al Impuesto sobre el Valor Añadido de las retribuciones percibidas por el consultante por dicha actividad prof…</title>
+    <updated>2026-08-06T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5448-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5448-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Ley 37/1992 Impuesto sobre el Valor Añadido IVA - 7.5. Sujeción al Impuesto sobre el Valor Añadido de las retribuciones percibidas por el consultante por dicha actividad profesional.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5447-26</id>
+    <title>V5447-26 · Sujeción y, en su caso, devengo del Impuesto sobre el Valor Añadido de las referidas entregas.</title>
+    <updated>2026-08-06T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5447-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5447-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Ley 37/1992 Impuesto sobre el Valor Añadido IVA - 20.1.20. Sujeción y, en su caso, devengo del Impuesto sobre el Valor Añadido de las referidas entregas.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5446-26</id>
+    <title>V5446-26 · Si la transmisión de dicha vivienda se encontraría sujeta al Impuesto sobre el Valor Añadido.</title>
+    <updated>2026-08-06T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5446-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5446-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Ley 37/1992 Impuesto sobre el Valor Añadido IVA - 5.1.d). Si la transmisión de dicha vivienda se encontraría sujeta al Impuesto sobre el Valor Añadido.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5445-26</id>
+    <title>V5445-26 · Deducibilidad de las cuotas del Impuesto sobre el Valor Añadido soportadas por la consultante en la ejecución de las ob…</title>
+    <updated>2026-08-06T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5445-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5445-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Ley 37/1992 Impuesto sobre el Valor Añadido IVA - 20.1.20 - 84.1.2.e) - 111. Deducibilidad de las cuotas del Impuesto sobre el Valor Añadido soportadas por la consultante en la ejecución de las obras de urbanización de los referidos terrenos.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5444-26</id>
+    <title>V5444-26 · Si a las adquisiciones de dichas viviendas por la entidad consultante les resultaría de aplicación el tipo del 4 por ci…</title>
+    <updated>2026-08-06T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5444-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5444-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Ley 37/1992 Impuesto sobre el Valor Añadido IVA - 91.2.1.6. Si a las adquisiciones de dichas viviendas por la entidad consultante les resultaría de aplicación el tipo del 4 por ciento del Impuesto sobre el Valor Añadido previsto en el artículo 91.Dos.1.6º de la Ley 37/1992.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5440-26</id>
+    <title>V5440-26 · Si la transmisión del edificio se encuentra sujeta y, en su caso, exenta del Impuesto sobre el Valor Añadido. Sujeto pa…</title>
+    <updated>2026-08-05T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5440-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5440-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Ley 37/1992 Impuesto sobre el Valor Añadido IVA - 20.1.22. Si la transmisión del edificio se encuentra sujeta y, en su caso, exenta del Impuesto sobre el Valor Añadido. Sujeto pasivo del Impuesto.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5439-26</id>
+    <title>V5439-26 · Si dicho suministro se incluye en el ámbito de aplicación del artículo 42 del Real Decreto-ley 7/2026, de 20 de marzo, …</title>
+    <updated>2026-08-05T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5439-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5439-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Real Decreto-ley 7/2026, de 20 de marzo, por el que se aprueba el Plan Integral de Respuesta a la Crisis en Oriente Medio - 42. Si dicho suministro se incluye en el ámbito de aplicación del artículo 42 del Real Decreto-ley 7/2026, de 20 de marzo, por el que se aprueba el Plan Integral de Respuesta a la Crisis en Oriente Medio.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5438-26</id>
+    <title>V5438-26 · Exención del Impuesto sobre el Valor Añadido de los servicios prestados por el nutricionista.</title>
+    <updated>2026-08-04T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5438-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5438-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Ley 37/1992 Impuesto sobre el Valor Añadido IVA - 4 - 20.Uno.3º. Exención del Impuesto sobre el Valor Añadido de los servicios prestados por el nutricionista.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5437-26</id>
+    <title>V5437-26 · Si estas cuotas de acceso de los socios de la consultante para formar parte de esta segunda asociación se encontrarían …</title>
+    <updated>2026-08-04T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5437-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5437-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Ley 37/1992 Impuesto sobre el Valor Añadido IVA - 20.1.12. Si estas cuotas de acceso de los socios de la consultante para formar parte de esta segunda asociación se encontrarían sujetas y exentas del Impuesto sobre el Valor Añadido.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5436-26</id>
+    <title>V5436-26 · Si a tales servicios les podría resultar de aplicación la exención prevista en el artículo 20.Uno.13º de la Ley 37/1992.</title>
+    <updated>2026-08-04T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5436-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5436-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Ley 37/1992 Impuesto sobre el Valor Añadido IVA - 20.1.13. Si a tales servicios les podría resultar de aplicación la exención prevista en el artículo 20.Uno.13º de la Ley 37/1992.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5433-26</id>
+    <title>V5433-26 · Si la venta de la finca rústica está exenta del Impuesto sobre el Valor Añadido.</title>
+    <updated>2026-07-31T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5433-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5433-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Ley 37/1992 Impuesto sobre el Valor Añadido IVA - 20.1.20 - 84.Uno.2º. Si la venta de la finca rústica está exenta del Impuesto sobre el Valor Añadido.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5432-26</id>
+    <title>V5432-26 · Si es de aplicación la regla de la prorrata, y en su caso, régimen de deducción aplicable a efectos del Impuesto sobre …</title>
+    <updated>2026-07-31T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5432-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5432-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Ley 37/1992 Impuesto sobre el Valor Añadido IVA - 9.1.c) - 101 - 102.1. Si es de aplicación la regla de la prorrata, y en su caso, régimen de deducción aplicable a efectos del Impuesto sobre el Valor Añadido.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5431-26</id>
+    <title>V5431-26 · Si los servicios de psicología prestados en línea se encuentran exentos del impuesto de acuerdo con lo dispuesto en el …</title>
+    <updated>2026-07-31T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5431-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5431-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Ley 37/1992 Impuesto sobre el Valor Añadido IVA - 20.Uno.3º. Si los servicios de psicología prestados en línea se encuentran exentos del impuesto de acuerdo con lo dispuesto en el artículo 20.Uno.3º de la ley 37/1992.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5430-26</id>
+    <title>V5430-26 · Sujeción al Impuesto sobre el Valor Añadido de la entrega de la referida parcela y, en su caso, base imponible y sujeto…</title>
+    <updated>2026-07-31T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5430-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5430-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Ley 37/1992 Impuesto sobre el Valor Añadido IVA - 20.1.20.a) - 84.1.2.e). Sujeción al Impuesto sobre el Valor Añadido de la entrega de la referida parcela y, en su caso, base imponible y sujeto pasivo del Impuesto. Deducibilidad de la cuota del Impuesto soportada, en su caso, por el consultante en la adquisición de dicha parcela.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5429-26</id>
+    <title>V5429-26 · Sujeción y, en su caso, exención del Impuesto sobre el Valor Añadido de transmisión del terreno objeto de consulta. Suj…</title>
+    <updated>2026-07-31T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5429-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5429-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Ley 37/1992 Impuesto sobre el Valor Añadido IVA - 20.1.20. Sujeción y, en su caso, exención del Impuesto sobre el Valor Añadido de transmisión del terreno objeto de consulta. Sujeto pasivo del Impuesto.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5428-26</id>
+    <title>V5428-26 · Sujeción al Impuesto sobre el Valor Añadido de las referidas expropiaciones. En caso de destinar los solares resultante…</title>
+    <updated>2026-07-31T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5428-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5428-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Ley 37/1992 Impuesto sobre el Valor Añadido IVA - 20.1.20 - 20.2. Sujeción al Impuesto sobre el Valor Añadido de las referidas expropiaciones. En caso de destinar los solares resultantes a la promoción de viviendas para su alquiler, consecuencias en el Impuesto sobre el Valor Añadido.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5427-26</id>
+    <title>V5427-26 · Tributación en el Impuesto sobre el Valor Añadido de la operación descrita y clasificación a efectos del Impuesto sobre…</title>
+    <updated>2026-07-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5427-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5427-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Ley 37/1992 Impuesto sobre el Valor Añadido IVA - 9.1 - 11.2.15 - 20.Uno.9º - 70.1.2 - 70.1.6 - 70.1.7 - 78.3.3 - 79.2 - 94.1 - 141 - 143 - 144 - 145 - 146 - 147. Tributación en el Impuesto sobre el Valor Añadido de la operación descrita y clasificación a efectos del Impuesto sobre Actividades Económicas de la actividad realizada.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5426-26</id>
+    <title>V5426-26 · Tributación en el Impuesto sobre el Valor Añadido de la operación descrita y clasificación a efectos del Impuesto sobre…</title>
+    <updated>2026-07-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5426-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5426-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Ley 37/1992 Impuesto sobre el Valor Añadido IVA - 11.2.15 - 69.1 - 70.1.6 - 70.1.7. Tributación en el Impuesto sobre el Valor Añadido de la operación descrita y clasificación a efectos del Impuesto sobre Actividades Económicas de la actividad realizada.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5425-26</id>
+    <title>V5425-26 · Se plantea la sujeción al Impuesto sobre el Valor Añadido de la operación descrita y las obligaciones formales que le c…</title>
+    <updated>2026-07-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5425-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5425-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Ley 37/1992 Impuesto sobre el Valor Añadido IVA - 4.1 - 164.1
+
+RD 1619/2012 Reglamento por el que se regulan las obligaciones de facturación - 1. Se plantea la sujeción al Impuesto sobre el Valor Añadido de la operación descrita y las obligaciones formales que le corresponde.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5424-26</id>
+    <title>V5424-26 · Se plantea si la consultante puede deducir las cuotas del Impuesto sobre el Valor Añadido deducidas en las autoliquidac…</title>
+    <updated>2026-07-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5424-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5424-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Ley 39/2015 Procedimiento Administrativo Común de las Administraciones Públicas - 39
+
+Ley 37/1992 Impuesto sobre el Valor Añadido IVA - 99 - 100. Se plantea si la consultante puede deducir las cuotas del Impuesto sobre el Valor Añadido deducidas en las autoliquidaciones del año 2023 y que fueron eliminadas mediante la liquidación firme de la Administración tributaria.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5422-26</id>
+    <title>V5422-26 · Si resulta aplicable el tipo reducido del 10 por ciento previsto en el artículo 91.Uno.2.1º de la Ley 37/1992, así como…</title>
+    <updated>2026-07-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5422-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5422-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Ley 37/1992 Impuesto sobre el Valor Añadido IVA - 91. Si resulta aplicable el tipo reducido del 10 por ciento previsto en el artículo 91.Uno.2.1º de la Ley 37/1992, así como epígrafe del Impuesto sobre Actividades Económicas aplicable.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5421-26</id>
+    <title>V5421-26 · Si las actividades realizadas por la consultante, como son la organización de conciertos y festivales musicales están e…</title>
+    <updated>2026-07-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5421-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5421-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Ley 37/1992 Impuesto sobre el Valor Añadido IVA - 20.Uno.13º - 89 - 92 - 101. Si las actividades realizadas por la consultante, como son la organización de conciertos y festivales musicales están exentas del Impuesto sobre el Valor Añadido en virtud de lo establecido en el artículo 20.uno.14º de la Ley 37/1992, y los efectos sobre el derecho a deducir las…</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5420-26</id>
+    <title>V5420-26 · Tipo impositivo del Impuesto sobre el Valor Añadido aplicable a dicha adquisición.</title>
+    <updated>2026-07-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5420-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5420-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Ley 37/1992 Impuesto sobre el Valor Añadido IVA - 91.2.1.6. Tipo impositivo del Impuesto sobre el Valor Añadido aplicable a dicha adquisición.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5419-26</id>
+    <title>V5419-26 · Tipo del Impuesto sobre el Valor Añadido aplicable a las mejoras contratadas por la consultante con la entidad construc…</title>
+    <updated>2026-07-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5419-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5419-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Ley 37/1992 Impuesto sobre el Valor Añadido IVA - 91.1.1.3. Tipo del Impuesto sobre el Valor Añadido aplicable a las mejoras contratadas por la consultante con la entidad constructora de la vivienda.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5418-26</id>
+    <title>V5418-26 · Tipo del Impuesto sobre el Valor Añadido aplicable a dichas obras de reforma.</title>
+    <updated>2026-07-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5418-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5418-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Ley 37/1992 Impuesto sobre el Valor Añadido IVA - 91.1.2.10 - 91.1.3.1. Tipo del Impuesto sobre el Valor Añadido aplicable a dichas obras de reforma.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5417-26</id>
+    <title>V5417-26 · Si los servicios quiroprácticos con finalidad terapéutica que la consultante recibe y, a su vez, presta en nombre propi…</title>
+    <updated>2026-07-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5417-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5417-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Ley 37/1992 Impuesto sobre el Valor Añadido IVA - 20.1.3. Si los servicios quiroprácticos con finalidad terapéutica que la consultante recibe y, a su vez, presta en nombre propio se encuentran sujetos y exentos del Impuesto sobre el Valor Añadido. Si el resto de servicios señalados se encuentran sujetos y exentos del Impuesto.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5416-26</id>
+    <title>V5416-26 · Tipo del Impuesto sobre el Valor Añadido aplicable a dicha operación.</title>
+    <updated>2026-07-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5416-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5416-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Ley 37/1992 Impuesto sobre el Valor Añadido IVA - 91.1.3.1. Tipo del Impuesto sobre el Valor Añadido aplicable a dicha operación.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5415-26</id>
+    <title>V5415-26 · Si los servicios prestados por la cooperativa se encuentran sujetos y, en su caso, exentos del Impuesto sobre el Valor …</title>
+    <updated>2026-07-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5415-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5415-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Ley 37/1992 Impuesto sobre el Valor Añadido IVA - 20.1.23. Si los servicios prestados por la cooperativa se encuentran sujetos y, en su caso, exentos del Impuesto sobre el Valor Añadido.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5414-26</id>
+    <title>V5414-26 · Si el cobro de dichas tasas por parte de la entidad consultante a los armadores o explotadores de los buques afectos a …</title>
+    <updated>2026-07-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5414-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5414-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Ley 37/1992 Impuesto sobre el Valor Añadido IVA - 22.7. Si el cobro de dichas tasas por parte de la entidad consultante a los armadores o explotadores de los buques afectos a la navegación marítima internacional se encuentran sujeto y exento del Impuesto sobre el Valor Añadido.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5413-26</id>
+    <title>V5413-26 · Sujeción al Impuesto sobre el Valor Añadido de la constitución de los referidos derechos de usufructo junto con los ser…</title>
+    <updated>2026-07-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5413-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5413-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Ley 37/1992 Impuesto sobre el Valor Añadido IVA - 20.1.23.b).e'). Sujeción al Impuesto sobre el Valor Añadido de la constitución de los referidos derechos de usufructo junto con los servicios complementarios que la entidad explotadora se obliga a prestar a los usufructuarios y, en su caso, tipo impositivo aplicable tanto al pago principal como…</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5411-26</id>
+    <title>V5411-26 · Se plantea si los cursos descritos se encuentran exentos del Impuesto sobre el Valor Añadido y, en tal caso, incidencia…</title>
+    <updated>2026-07-29T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5411-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5411-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Ley 37/1992 Impuesto sobre el Valor Añadido IVA - 20.Uno.9º - 89.1 - 89.4 - 89.5 - 94.1 - 114.1. Se plantea si los cursos descritos se encuentran exentos del Impuesto sobre el Valor Añadido y, en tal caso, incidencia en el derecho a la deducción y la regularización de las facturas ya emitidas.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5410-26</id>
+    <title>V5410-26 · Se plantea la sujeción al Impuesto sobre el Valor Añadido de la operación descrita y, en su caso, el tipo impositivo ap…</title>
+    <updated>2026-07-29T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5410-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5410-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Ley 37/1992 Impuesto sobre el Valor Añadido IVA - 91. Se plantea la sujeción al Impuesto sobre el Valor Añadido de la operación descrita y, en su caso, el tipo impositivo aplicable.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5409-26</id>
+    <title>V5409-26 · Se plantea si a dicha operación le resultaría aplicable alguna exención de la Ley del Impuesto sobre el Valor Añadido y…</title>
+    <updated>2026-07-29T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5409-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5409-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Ley 37/1992 Impuesto sobre el Valor Añadido IVA - 20.Uno.8º - 20.Uno.12º - 20.Dos - 91. Se plantea si a dicha operación le resultaría aplicable alguna exención de la Ley del Impuesto sobre el Valor Añadido y, en caso de no estar exenta, si ello supusiera la pérdida del derecho a la exención de las demás operaciones.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5408-26</id>
+    <title>V5408-26 · Sujeción de los servicios consultados al Impuesto sobre el Valor Añadido.</title>
+    <updated>2026-07-29T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5408-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5408-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Ley 37/1992 Impuesto sobre el Valor Añadido IVA - 69 - 70
+
+Reglamento de ejecución (UE) 282/2011 del Consejo Disposiciones de aplicación de la Directiva 2006/112/CE relativa al sistema común del IVA - 17 - 18 - 19. Sujeción de los servicios consultados al Impuesto sobre el Valor Añadido.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5407-26</id>
+    <title>V5407-26 · Si los servicios asociados a los equipos de riego que presta la consultante a clientes establecidos fuera de la Unión E…</title>
+    <updated>2026-07-29T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5407-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5407-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Ley 37/1992 Impuesto sobre el Valor Añadido IVA - 69 - 70
+
+Reglamento de ejecución (UE) 282/2011 del Consejo Disposiciones de aplicación de la Directiva 2006/112/CE relativa al sistema común del IVA - 17 - 18 - 19. Si los servicios asociados a los equipos de riego que presta la consultante a clientes establecidos fuera de la Unión Europea están sujetos al Impuesto sobre el Valor Añadido</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5405-26</id>
+    <title>V5405-26 · Si la consultante debe repercutir el Impuesto sobre el Valor Añadido por la actividad de distribución de agua a sus com…</title>
+    <updated>2026-07-28T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5405-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5405-26.md" />
+    <category term="iva" label="SG de Impuestos sobre el Consumo" />
+    <summary>SG de Impuestos sobre el Consumo. Normativa: Ley 37/1992 Impuesto sobre el Valor Añadido IVA - 7.11 - 84.Uno.2º - 91 - 92. Si la consultante debe repercutir el Impuesto sobre el Valor Añadido por la actividad de distribución de agua a sus comuneros, así como por la ejecución de las obras consultadas. La consultante también plantea la deducibilidad de las cuotas soportadas por la ejecución de las obr…</summary>
+  </entry>
+</feed>

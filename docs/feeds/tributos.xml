@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://gabela-io.github.io/dgt-consultas-vinculantes/feeds/tributos.xml</id>
+  <title>Consultas vinculantes DGT: SG de Tributos</title>
+  <subtitle>Consultas vinculantes de la Dirección General de Tributos. Origen de los datos: Ministerio de Hacienda.</subtitle>
+  <updated>2026-09-29T00:00:00Z</updated>
+  <link rel="self" href="https://gabela-io.github.io/dgt-consultas-vinculantes/feeds/tributos.xml" />
+  <link rel="alternate" href="https://github.com/gabela-io/dgt-consultas-vinculantes" />
+  <author>
+    <name>gabela-io (unofficial)</name>
+  </author>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5657-26</id>
+    <title>V5657-26 · 1-. Si deviene obligado a informar exclusivamente acerca de los valores cuya titularidad se ha extinguido o si debe dec…</title>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5657-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5657-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: Ley 58/2003 General Tributaria LGT - DA.18
+
+RD 1065/2007 Reglamento Proc. Gestión e Inspección y N.Comunes de Aplicación - 42.ter. 1-. Si deviene obligado a informar exclusivamente acerca de los valores cuya titularidad se ha extinguido o si debe declarar también aquellos que siguen siendo de su titularidad y sobre los que ya se informó en algún ejercicio anterior.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5651-26</id>
+    <title>V5651-26 · 1-. Si deviene en la obligación de presentar la declaración informativa sobre monedas virtuales situadas en el extranje…</title>
+    <updated>2026-09-25T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5651-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5651-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: Ley 58/2003 General Tributaria LGT - DA.18
+
+RD 1065/2007 Reglamento Proc. Gestión e Inspección y N.Comunes de Aplicación - 42. 1-. Si deviene en la obligación de presentar la declaración informativa sobre monedas virtuales situadas en el extranjero en relación con el ejercicio 2024. 2-. Si la respuesta a la cuestión anterior fuese afirmativa, qué valor debería declarar.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5650-26</id>
+    <title>V5650-26 · 1-. Procedimiento para regularizar su situación.</title>
+    <updated>2026-09-25T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5650-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5650-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: Ley 58/2003 General Tributaria LGT - 120.3
+
+RD 1065/2007 Reglamento Proc. Gestión e Inspección y N.Comunes de Aplicación - 129
+
+RD 520/2005 Reglamento Revisión en Vía Administrativa - 14
+
+Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 79. 1-. Procedimiento para regularizar su situación.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5649-26</id>
+    <title>V5649-26 · ¿Tengo que usar un programa de facturación que cumpla con Veri*Factu o puedo mantener mis facturas en Excel de forma ma…</title>
+    <updated>2026-09-25T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5649-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5649-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: Real Decreto 1007/2023, de 5 de diciembre, por el que se aprueba el Reglamento que establece los requisitos que deben adoptar los sistemas y programas informáticos o electrónicos que soporten los procesos de facturación de empresarios y profesionales, y la estandarización de formatos de los registros de facturación - 1. ¿Tengo que usar un programa de facturación que cumpla con Veri*Factu o puedo mantener mis facturas en Excel de forma manual?</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5207-26</id>
+    <title>V5207-26 · “Primera. En caso de que, como consecuencia del despido y de una eventual conciliación laboral, proceda el abono de una…</title>
+    <updated>2026-07-20T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5207-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5207-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: Ley 58/2003 General Tributaria LGT - 42.2 - 170
+
+Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil - 606. “Primera. En caso de que, como consecuencia del despido y de una eventual conciliación laboral, proceda el abono de una indemnización o cantidad transaccional al trabajador, ¿puede la empresa realizar dicho pago en la cuenta bancaria expresamente designada por el trabajador, aun…</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5140-26</id>
+    <title>V5140-26 · Que se me indique si mis facturas deben de reunir los requisitos de VERIFACTU o si por el contrario, al utilizar un plu…</title>
+    <updated>2026-07-10T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5140-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5140-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: Ley 58/2003 General Tributaria LGT - 29.2
+
+Real Decreto 1007/2023, de 5 de diciembre, por el que se aprueba el Reglamento que establece los requisitos que deben adoptar los sistemas y programas informáticos o electrónicos que soporten los procesos de facturación de empresarios y profesionales, y la estandarización de formatos de los registros de facturación - 8. Que se me indique si mis facturas deben de reunir los requisitos de VERIFACTU o si por el contrario, al utilizar un plugin que únicamente genera las facturas en base a los datos del pedido, y no automatiza el traspaso de sus datos a programas que generen los asientos y libros re…</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5073-26</id>
+    <title>V5073-26 · El consultante solicita a la Dirección General de Tributos que emita criterio vinculante sobre todos los puntos expuest…</title>
+    <updated>2026-06-25T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5073-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5073-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: Ley 58/2003 General Tributaria LGT - 29.2
+
+Real Decreto 1007/2023, de 5 de diciembre, por el que se aprueba el Reglamento que establece los requisitos que deben adoptar los sistemas y programas informáticos o electrónicos que soporten los procesos de facturación de empresarios y profesionales, y la estandarización de formatos de los registros de facturación - 3. El consultante solicita a la Dirección General de Tributos que emita criterio vinculante sobre todos los puntos expuestos en el apartado II, y específicamente: 1. Modalidad obligatoria del proveedor cuando el destinatario emite facturas verificables. Cuando el destinatario (cons…</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5067-26</id>
+    <title>V5067-26 · 1. Alcance y contenido de los citados artículos cuando su redacción pueda dar lugar a distintas interpretaciones técnic…</title>
+    <updated>2026-06-24T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5067-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5067-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: Ley 58/2003 General Tributaria LGT - 29.2
+
+Real Decreto 1007/2023, de 5 de diciembre, por el que se aprueba el Reglamento que establece los requisitos que deben adoptar los sistemas y programas informáticos o electrónicos que soporten los procesos de facturación de empresarios y profesionales, y la estandarización de formatos de los registros de facturación - 8. 1. Alcance y contenido de los citados artículos cuando su redacción pueda dar lugar a distintas interpretaciones técnicas. 2. Si las soluciones descritas en los puntos anteriores pueden considerarse conformes con la Orden HAC/1177/2024. 3. Si tales mecanismos cumplen adecuadamen…</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5066-26</id>
+    <title>V5066-26 · 1. Si deviene obligado a presentar la declaración informativa sobre monedas virtuales situadas en el extranjero para el…</title>
+    <updated>2026-06-24T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5066-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5066-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: Ley 58/2003 General Tributaria LGT - DA.18
+
+RD 1065/2007 Reglamento Proc. Gestión e Inspección y N.Comunes de Aplicación - 42. 1. Si deviene obligado a presentar la declaración informativa sobre monedas virtuales situadas en el extranjero para el año 2025. 2. En caso afirmativo, qué tipo de moneda, qué saldo y qué fecha debería consignar.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5064-26</id>
+    <title>V5064-26 · 1-. Obligatoriedad en la presentación de la declaración informativa sobre valores depositados en el extranjero, al ampa…</title>
+    <updated>2026-06-23T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5064-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5064-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: Ley 58/2003 General Tributaria LGT - DA.18
+
+RD 1065/2007 Reglamento Proc. Gestión e Inspección y N.Comunes de Aplicación - 42.ter. 1-. Obligatoriedad en la presentación de la declaración informativa sobre valores depositados en el extranjero, al amparo del artículo 42 ter del RGAT.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5035-26</id>
+    <title>V5035-26 · 1-. Obligatoriedad en la presentación de la declaración informativa sobre cuentas en entidades financieras situadas en …</title>
+    <updated>2026-06-15T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5035-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5035-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: Ley 58/2003 General Tributaria LGT - DA.18
+
+RD 1065/2007 Reglamento Proc. Gestión e Inspección y N.Comunes de Aplicación - 42.bis. 1-. Obligatoriedad en la presentación de la declaración informativa sobre cuentas en entidades financieras situadas en el extranjero, al amparo del artículo 42 bis del RGAT, por la modificación del código IBAN. 2-. En su caso, qué saldo declarar, habida cuenta de que desconoce c…</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5026-26</id>
+    <title>V5026-26 · 1. Si el Colegio, cuando expide facturas en nombre de sus colegiados al amparo del artículo 5 del RD 1619/2012, queda s…</title>
+    <updated>2026-06-09T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5026-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5026-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: Ley 58/2003 General Tributaria LGT - 29. 1. Si el Colegio, cuando expide facturas en nombre de sus colegiados al amparo del artículo 5 del RD 1619/2012, queda sujeto materialmente a las obligaciones del RSIF aprobado por el RD 1007/2023; y, en su caso, cuál es el alcance y los límites de esa sujeción material, así como…</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5025-26</id>
+    <title>V5025-26 · Obligatoriedad en la presentación de la declaración informativa sobre bienes y derechos situados en el extranjero.</title>
+    <updated>2026-06-09T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5025-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5025-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: Ley 58/2003 General Tributaria LGT - DA.18
+
+RD 1065/2007 Reglamento Proc. Gestión e Inspección y N.Comunes de Aplicación - 42.bis - 42.ter. Obligatoriedad en la presentación de la declaración informativa sobre bienes y derechos situados en el extranjero.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5016-26</id>
+    <title>V5016-26 · 1-. Obligatoriedad en la presentación de la declaración informativa sobre bienes o derechos situados en el extranjero, …</title>
+    <updated>2026-06-05T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5016-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5016-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: RD 1065/2007 Reglamento Proc. Gestión e Inspección y N.Comunes de Aplicación - 42.bis - 42.ter
+
+Ley 58/2003 General Tributaria LGT - DA.18. 1-. Obligatoriedad en la presentación de la declaración informativa sobre bienes o derechos situados en el extranjero, al amparo de los artículos 42 bis y 42 ter del RGAT.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V1072-26</id>
+    <title>V1072-26 · Concretamente las siguientes preguntas: ¿La sociedad suscrita está afectada por la normativa de referencia y debe darse…</title>
+    <updated>2026-05-14T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V1072-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V1072-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: . Concretamente las siguientes preguntas: ¿La sociedad suscrita está afectada por la normativa de referencia y debe darse de alta en el VERI*FACTU y enviar a la Administración Tributaria las facturas emitidas por el Administrador de Fincas por cuenta de esta sociedad suscrita? O p…</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V1070-26</id>
+    <title>V1070-26 · 1. Si las facturas de peajes y otros conceptos regulados que emiten directamente las empresas distribuidoras de energía…</title>
+    <updated>2026-05-14T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V1070-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V1070-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: Ley General Tributaria (Ley 58/2003, de 17 de diciembre). 1. Si las facturas de peajes y otros conceptos regulados que emiten directamente las empresas distribuidoras de energía eléctrica, como es el caso de los socios de CIDE, quedan comprendidas en el supuesto de exclusión contemplado en el artículo 4.1 del Reglamento aprobado por el…</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V1068-26</id>
+    <title>V1068-26 · 1-. Si la obligación formal a que se refiere el artículo 29.2.d) de la Ley General Tributaria comprende también la cons…</title>
+    <updated>2026-05-14T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V1068-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V1068-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: LGT (artículos 29, 35, 93).. 1-. Si la obligación formal a que se refiere el artículo 29.2.d) de la Ley General Tributaria comprende también la conservación y disponibilidad de los programas, archivos y ficheros informáticos que sirven de soporte a la contabilidad. 2-. Si puede entenderse suficiente para en…</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V1065-26</id>
+    <title>V1065-26 · Que se determine si el consultante tiene que declarar en el modelo 347 las subvenciones recibidas en calidad de agricul…</title>
+    <updated>2026-05-13T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V1065-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V1065-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: Art. 93 LGT
+
+Arts. 31, 32, 33, 35 y 52 RGAT. Que se determine si el consultante tiene que declarar en el modelo 347 las subvenciones recibidas en calidad de agricultor de la Junta de Extremadura correspondientes a la PAC (incluyendo fondos FEAGA y Feader) en el año 2025 por importe superior a 3.005,06€.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V1064-26</id>
+    <title>V1064-26 · 1. Si el archivo generado en formato .xlsx que se entrega al cliente como parte del servicio de asesoría fiscal tiene l…</title>
+    <updated>2026-05-13T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V1064-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V1064-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: Art. 29.2 j) LGT.
+
+Real Decreto 1007/2023, de 5 de diciembre, por el que se aprueba el Reglamento que establece los requisitos que deben adoptar los sistemas y programas informáticos o electrónicos que soporten los procesos de facturación de empresarios y profesionales, y la estandarización de formatos de los registros de facturación.. 1. Si el archivo generado en formato .xlsx que se entrega al cliente como parte del servicio de asesoría fiscal tiene la consideración de sistema informático de facturación conforme al artículo 1 del Real Decreto 1007/2023. 2. En el caso de que la respuesta a la primera pregunta…</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V1063-26</id>
+    <title>V1063-26 · En relación con el reglamento de facturación que exige el uso de programas de ordenador para la elaboración de las fact…</title>
+    <updated>2026-05-13T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V1063-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V1063-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: Art. 29.2 j) LGT
+
+Real Decreto 1007/2023, de 5 de diciembre, por el que se aprueba el Reglamento que establece los requisitos que deben adoptar los sistemas y programas informáticos o electrónicos que soporten los procesos de facturación de empresarios y profesionales, y la estandarización de formatos de los registros de facturación.. En relación con el reglamento de facturación que exige el uso de programas de ordenador para la elaboración de las facturas, que se indique si la comunidad de bienes está obligada a ello o, si pueden seguir utilizando herramientas ofimáticas. En relación con la factura electróni…</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V1062-26</id>
+    <title>V1062-26 · El consultante desea saber si estará obligada a utilizar un Sistema Informático de Facturación (SIF) con el sistema Ver…</title>
+    <updated>2026-05-13T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V1062-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V1062-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: Ley General Tributaria (Ley 58/2003, de 17 de
+
+diciembre). El consultante desea saber si estará obligada a utilizar un Sistema Informático de Facturación (SIF) con el sistema Verifactu para la emisión de las facturas de alquiler.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V1061-26</id>
+    <title>V1061-26 · 1-. Cómo liquidar los atrasos percibidos en concepto de complemento por maternidad a la pensión contributiva, habida cu…</title>
+    <updated>2026-05-13T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V1061-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V1061-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: LGT (artículos 66, 67, 120 y 122), RGAT (artículos 119 y 120), LIRPF (artículos 14 y 17). 1-. Cómo liquidar los atrasos percibidos en concepto de complemento por maternidad a la pensión contributiva, habida cuenta de que ya ha solicitado la rectificación de las autoliquidaciones de IRPF de los años 2019 a 2022 para aplicar la reducción prevista en la disposición tran…</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V1056-26</id>
+    <title>V1056-26 · Consulta si el salario en especie puede ser objeto de embargo y en qué medida.</title>
+    <updated>2026-05-13T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V1056-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V1056-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: "Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil
+
+(LEC).
+
+"Ley 58/2003, de 17 de diciembre, General Tributaria
+
+(LGT).
+
+"Reglamento General de Recaudación, aprobado por
+
+el Real Decreto 939/2005, de 29 de julio (RGR).. Consulta si el salario en especie puede ser objeto de embargo y en qué medida.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V1051-26</id>
+    <title>V1051-26 · 1-. Cómo declarar en la declaración informativa sobre bienes inmuebles y derechos sobre bienes inmuebles situados en el…</title>
+    <updated>2026-05-13T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V1051-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V1051-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: LGT (disposición adicional decimoctava), RGAT (artículos 42 bis y 54 bis).. 1-. Cómo declarar en la declaración informativa sobre bienes inmuebles y derechos sobre bienes inmuebles situados en el extranjero, «modelo 720» por el inmueble del que sigue siendo titular. 2-. Cómo declarar en la declaración informativa sobre bienes inmuebles y derechos sobre …</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V1042-26</id>
+    <title>V1042-26 · Se solicita aclaración sobre la correcta interpretación del Real Decreto 1007/2023 (Veri*factu) en relación con la exis…</title>
+    <updated>2026-05-13T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V1042-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V1042-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: Art. 29.2 j) LGT
+
+Real Decreto 1007/2023, de 5 de diciembre, por el que se aprueba el Reglamento que establece los requisitos que deben adoptar los sistemas y programas informáticos o electrónicos que soporten los procesos de facturación de empresarios y profesionales, y la estandarización de formatos de los registros de facturación.. Se solicita aclaración sobre la correcta interpretación del Real Decreto 1007/2023 (Veri*factu) en relación con la existencia de entidades de prueba en software de facturación: ¿Existe algún problema o inconveniente desde el punto de vista normativo por la mera existencia de est…</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0994-26</id>
+    <title>V0994-26 · Obligatoriedad en la presentación de la declaración informativa sobre bienes y derechos situados en el extranjero.</title>
+    <updated>2026-05-05T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0994-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0994-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: LGT (disposición adicional decimoctava), RGAT (artículo 42 bis). Obligatoriedad en la presentación de la declaración informativa sobre bienes y derechos situados en el extranjero.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0993-26</id>
+    <title>V0993-26 · Obligatoriedad en la presentación de la declaración informativa sobre bienes y derechos en el extranjero, «modelo 720».</title>
+    <updated>2026-05-05T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0993-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0993-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: LGT (disposición adicional decimoctava), RGAT (artículos 42 bis y 42 ter). Obligatoriedad en la presentación de la declaración informativa sobre bienes y derechos en el extranjero, «modelo 720».</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0988-26</id>
+    <title>V0988-26 · “Ante una notificación tributaria en papel, recibida un sábado en una oficina de correos ¿a partir de cuando computaría…</title>
+    <updated>2026-05-05T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0988-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0988-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: • Ley 58/2003, de 17 de diciembre, General Tributaria (LGT)
+
+• Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.. “Ante una notificación tributaria en papel, recibida un sábado en una oficina de correos ¿a partir de cuando computarían los plazos? ¿desde el mismo sábado o desde el siguiente día hábil, es decir el lunes?"</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0971-26</id>
+    <title>V0971-26 · Aclaración sobre si existe obligatoriedad de presentar la declaración informativa modelo 720 sobre las cuentas en entid…</title>
+    <updated>2026-04-29T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0971-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0971-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: LGT (disposición adicional decimoctava), RGAT. Aclaración sobre si existe obligatoriedad de presentar la declaración informativa modelo 720 sobre las cuentas en entidades financieras una vez presentada la declaración informativa, sin experimentar los saldos en su conjunto un incremento superior a 20.000 euros, en los casos q…</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0848-26</id>
+    <title>V0848-26 · 1. Tratamiento de la Limited Liability Company a efectos del ordenamiento jurídico español. 2. Si debe presentar alguna…</title>
+    <updated>2026-04-21T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0848-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0848-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: LGT (disposición adicional decimoctava), RGAT (artículos 42 ter y 42 quater). 1. Tratamiento de la Limited Liability Company a efectos del ordenamiento jurídico español. 2. Si debe presentar alguna declaración informativa por los bienes o derechos situados en el extranjero, así como qué valor debe consignar.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0820-26</id>
+    <title>V0820-26 · Determinar si, estando acogido al SII, el consultante queda automáticamente exento de la obligación de utilizar VeriFac…</title>
+    <updated>2026-04-14T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0820-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0820-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: Art. 29.2 j) LGT
+
+Real Decreto 1007/2023, de 5 de diciembre, por el que se aprueba el Reglamento que establece los requisitos que deben adoptar los sistemas y programas informáticos o electrónicos que soporten los procesos de facturación de empresarios y profesionales, y la estandarización de formatos de los registros de facturación.. Determinar si, estando acogido al SII, el consultante queda automáticamente exento de la obligación de utilizar VeriFactu y puede continuar operando con el sistema actual de facturación que cumpla con el Suministro Inmediato de Información. Confirmar si el procedimiento actual d…</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0819-26</id>
+    <title>V0819-26 · Nos indiquen si estamos obligados o no a la aplicación del sistema veri*factu en nuestra entidad</title>
+    <updated>2026-04-13T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0819-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0819-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: Ley General Tributaria (Ley 58/2003, de 17 de diciembre). Nos indiquen si estamos obligados o no a la aplicación del sistema veri*factu en nuestra entidad</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0817-26</id>
+    <title>V0817-26 · Se responda a la cuestión planteada</title>
+    <updated>2026-04-13T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0817-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0817-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: Ley General Tributaria (Ley 58/2003, de 17 de diciembre). Se responda a la cuestión planteada</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0688-26</id>
+    <title>V0688-26 · El contenido de la consulta se estructura en dos preguntas sucesivas: “Si la responsabilidad solidaria establecida en e…</title>
+    <updated>2026-03-27T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0688-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0688-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: • Ley 58/2003, de 17 de diciembre, General Tributaria (LGT))
+
+• Reglamento General de Recaudación, aprobado por Real Decreto 939/2005, de 29 de julio (RGR).
+
+• Real Decreto de 24 de julio de 1889 por el que se publica el Código Civil (Código Civil).
+
+• Ley 49/1960, de 21 de julio, sobre propiedad horizontal (LPH).. El contenido de la consulta se estructura en dos preguntas sucesivas: “Si la responsabilidad solidaria establecida en el artículo 42.1.b) de la LGT se extiende, en el caso de que la Consultante pase a formar parte de la comunidad de propietarios del edificio al que pertenece el …</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0668-26</id>
+    <title>V0668-26 · “Se plantea la cuestión de que al solicitar un certificado tributario de los contemplados en los arts. 70 a 75 RGAT en …</title>
+    <updated>2026-03-26T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0668-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0668-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: • Ley 58/2003, de 17 de diciembre, General Tributaria (LGT);
+
+• Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos aprobado por Real Decreto 1065/2007, de 27 de julio (RGAT);
+
+• Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.. “Se plantea la cuestión de que al solicitar un certificado tributario de los contemplados en los arts. 70 a 75 RGAT en un municipio de régimen común en el que no se ha atribuido expresamente por la normativa del municipio dicha atribución a ningún órgano ¿A quién corresponde la …</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0666-26</id>
+    <title>V0666-26 · Aclaración sobre si a partir del 1 de enero de 2026 estaría obligada por la normativa de Sistemas Informáticos de Factu…</title>
+    <updated>2026-03-25T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0666-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0666-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: Ley General Tributaria (Ley 58/2003, de 17 de diciembre). Aclaración sobre si a partir del 1 de enero de 2026 estaría obligada por la normativa de Sistemas Informáticos de Facturación (RRSIF), aprobado por el RD 1007/2023, de 5 de diciembre, también conocido como Reglamento VERI*FACTU y por tanto, tendría que adquirir un programa de fa…</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0665-26</id>
+    <title>V0665-26 · Me indique si estoy obligado a adaptar la caja registradora (TPV) al RRSIF</title>
+    <updated>2026-03-25T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0665-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0665-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: Ley General Tributaria (Ley 58/2003, de 17 de diciembre). Me indique si estoy obligado a adaptar la caja registradora (TPV) al RRSIF</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0664-26</id>
+    <title>V0664-26 · Me indique si estoy obligado a adaptar la báscula al RRSIF</title>
+    <updated>2026-03-25T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0664-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0664-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: Ley General Tributaria (Ley 58/2003, de 17 de diciembre). Me indique si estoy obligado a adaptar la báscula al RRSIF</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0663-26</id>
+    <title>V0663-26 · Solicita que sea respondida por escrito de forma vinculante la consulta que se hizo, en la que se le indicaba lo expues…</title>
+    <updated>2026-03-25T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0663-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0663-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: Ley General Tributaria (Ley 58/2003, de 17 de diciembre). Solicita que sea respondida por escrito de forma vinculante la consulta que se hizo, en la que se le indicaba lo expuesto anteriormente, en el sentido de que no es necesario hacer las declaraciones complementarias de esos años por haber prescrito.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0662-26</id>
+    <title>V0662-26 · ¿Es un Sistema Informático de Facturación según el RD 1007/2023?, ¿Este sistema para emisión de facturas está incluido …</title>
+    <updated>2026-03-25T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0662-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0662-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: Ley General Tributaria (Ley 58/2003, de 17 de diciembre). ¿Es un Sistema Informático de Facturación según el RD 1007/2023?, ¿Este sistema para emisión de facturas está incluido en el RD 1007/2023 de VeriFACTU?</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0658-26</id>
+    <title>V0658-26 · Plantea si las facturas emitidas en los términos consultados cumplirían las obligaciones introducidas por el Real Decre…</title>
+    <updated>2026-03-23T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0658-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0658-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: Art. 29.2 j) LGT
+
+Real Decreto 1007/2023, de 5 de diciembre, por el que se aprueba el Reglamento que establece los requisitos que deben adoptar los sistemas y programas informáticos o electrónicos que soporten los procesos de facturación de empresarios y profesionales, y la estandarización de formatos de los registros de facturación.. Plantea si las facturas emitidas en los términos consultados cumplirían las obligaciones introducidas por el Real Decreto 1070/2023, de 5 de diciembre, por el que se aprueba el Reglamento que establece los requisitos que deben adoptar los sistemas y programas informáticos o elec…</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0650-26</id>
+    <title>V0650-26 · 1. Si, en relación con las facturas emitidas por cuenta de terceros de conformidad con lo previsto en el artículo 5 del…</title>
+    <updated>2026-03-20T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0650-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0650-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: Art. 29.2 j) LGT.
+
+Real Decreto 1007/2023, de 5 de diciembre, por el que se aprueba el Reglamento que establece los requisitos que deben adoptar los sistemas y programas informáticos o electrónicos que soporten los procesos de facturación de empresarios y profesionales, y la estandarización de formatos de los registros de facturación.. 1. Si, en relación con las facturas emitidas por cuenta de terceros de conformidad con lo previsto en el artículo 5 del Reglamento de facturación, la entidad consultante tiene la obligación de aplicar el RSIF. 2. En el caso de que la entidad consultante deba aplicar el RSIF por …</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0622-26</id>
+    <title>V0622-26 · ¿Esta situación es legal? ¿Es posible confirmar el pago y enviarlo a Verifactu (inmediatamente) al final del ciclo de l…</title>
+    <updated>2026-03-18T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0622-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0622-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: Art. 29.2 j) LGT
+
+Real Decreto 1007/2023, de 5 de diciembre, por el que se aprueba el Reglamento que establece los requisitos que deben adoptar los sistemas y programas informáticos o electrónicos que soporten los procesos de facturación de empresarios y profesionales, y la estandarización de formatos de los registros de facturación.. ¿Esta situación es legal? ¿Es posible confirmar el pago y enviarlo a Verifactu (inmediatamente) al final del ciclo de lavado/secado?</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0621-26</id>
+    <title>V0621-26 · La entidad consultante solicita aclaración sobre si está obligada o no a tener un software VERIFACTU independiente, y s…</title>
+    <updated>2026-03-18T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0621-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0621-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: Art. 29.2 j) LGT.
+
+Real Decreto 1007/2023, de 5 de diciembre, por el que se aprueba el Reglamento que establece los requisitos que deben adoptar los sistemas y programas informáticos o electrónicos que soporten los procesos de facturación de empresarios y profesionales, y la estandarización de formatos de los registros de facturación.. La entidad consultante solicita aclaración sobre si está obligada o no a tener un software VERIFACTU independiente, y si es el caso, cómo y cuándo hacer las facturas de la carne envasada que pasan directamente por la caja del supermercado.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0496-26</id>
+    <title>V0496-26 · Se plantea si es de aplicación el Real Decreto 1007/2023, de 5 de diciembre, en el caso de la entidad consultante.</title>
+    <updated>2026-03-04T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0496-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0496-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: Art. 29.2 j) LGT.
+
+Real Decreto 1007/2023, de 5 de diciembre, por el que se aprueba el Reglamento que establece los requisitos que deben adoptar los sistemas y programas informáticos o electrónicos que soporten los procesos de facturación de empresarios y profesionales, y la estandarización de formatos de los registros de facturación.. Se plantea si es de aplicación el Real Decreto 1007/2023, de 5 de diciembre, en el caso de la entidad consultante.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0484-26</id>
+    <title>V0484-26 · Posibilidad de seguir emitiendo notas de cargo para este tipo de operaciones, a partir del 1 de enero de 2026. Y si est…</title>
+    <updated>2026-03-03T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0484-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0484-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: Art. 29.2 j) LGT
+
+Real Decreto 1007/2023, de 5 de diciembre, por el que se aprueba el Reglamento que establece los requisitos que deben adoptar los sistemas y programas informáticos o electrónicos que soporten los procesos de facturación de empresarios y profesionales, y la estandarización de formatos de los registros de facturación.. Posibilidad de seguir emitiendo notas de cargo para este tipo de operaciones, a partir del 1 de enero de 2026. Y si estas notas de cargo pueden ser generadas por otras aplicaciones como Word.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0482-26</id>
+    <title>V0482-26 · Dado que el reglamento arriba mencionado establece como infracción tributaria la fabricación, producción, comercializac…</title>
+    <updated>2026-03-03T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0482-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0482-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: Ley General Tributaria (Ley 58/2003, de 17 de diciembre). Dado que el reglamento arriba mencionado establece como infracción tributaria la fabricación, producción, comercialización y TENENCIA de sistemas informáticos que no cumplan las especificaciones exigidas por la normativa aplicable, ¿sería sancionable la mera tenencia del program…</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0467-26</id>
+    <title>V0467-26 · La consulta plantea si las cargas previas sobre un inmueble adquirido en pública subasta se incluyen en su valor de adq…</title>
+    <updated>2026-02-27T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0467-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0467-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: • Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio (LIRPF).. La consulta plantea si las cargas previas sobre un inmueble adquirido en pública subasta se incluyen en su valor de adquisición, así como, si el deudor principal del préstamo garantizado con dichas cargas incumpliese su obligación para con ella, este incumplimiento sería deducib…</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0461-26</id>
+    <title>V0461-26 · La consultante desea conocer si el nuevo número de pasaporte otorgado como consecuencia de su renovación incide en la v…</title>
+    <updated>2026-02-27T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0461-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0461-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: • Ley 58/2003, de 17 de diciembre, General Tributaria (LGT)
+
+• Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por Real Decreto 1065/2007, de 27 de julio.. La consultante desea conocer si el nuevo número de pasaporte otorgado como consecuencia de su renovación incide en la validez de los documentos de representación otorgados, así como si es necesario modificar los datos del representado obrantes en el censo de obligados tributario…</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0415-26</id>
+    <title>V0415-26 · Por lo expuesto se pregunta si la sociedad estaría sujeta al RRSIF</title>
+    <updated>2026-02-26T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0415-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0415-26.md" />
+    <category term="tributos" label="SG de Tributos" />
+    <summary>SG de Tributos. Normativa: Ley General Tributaria (Ley 58/2003, de 17 de diciembre). Por lo expuesto se pregunta si la sociedad estaría sujeta al RRSIF</summary>
+  </entry>
+</feed>

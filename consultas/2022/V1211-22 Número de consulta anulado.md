@@ -1,0 +1,19 @@
+---
+fecha: '2022-05-30'
+normativa: ''
+numero: V1211-22 Número de consulta anulado
+organo: ''
+url: https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V1211-22
+---
+
+# Consulta Vinculante V1211-22 Número de consulta anulado
+
+## Descripcion de hechos
+
+
+
+## Cuestion planteada
+
+
+
+## Contestacion

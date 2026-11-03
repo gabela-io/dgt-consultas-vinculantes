@@ -1,0 +1,22 @@
+# nix
+result
+result-*
+
+# direnv
+.direnv/
+.envrc.local
+
+# python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# scraper state that is not part of the published corpus:
+# raw HTML cache (~1.3 GB, regenerable) and the in-progress checkpoint
+raw/
+checkpoint.json
+
+# search index, rebuilt with `dgt-consultas index`
+/index/

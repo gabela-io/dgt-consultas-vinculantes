@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "skills": {
+    "crafting-effective-readmes": {
+      "source": "softaworks/agent-toolkit",
+      "sourceType": "github",
+      "skillPath": "skills/crafting-effective-readmes/SKILL.md",
+      "computedHash": "c931a8c22160e8925400778fcb2266b5d1df762f3052edba65f72479f79f2d6c"
+    },
+    "mcp-builder": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "skillPath": "skills/mcp-builder/SKILL.md",
+      "computedHash": "826e46adf81e1372282e205c34e1a2ee876e72148007726e4a2512599d2fef7b"
+    },
+    "nix-blueprint": {
+      "source": "aldoborrero/cc-skills-nix",
+      "sourceType": "github",
+      "skillPath": "skills/nix-blueprint/SKILL.md",
+      "computedHash": "dc3edf1a6a5beae88cdf4211ec3f4680bef2032913c395b5f630a0ede14b2fed"
+    },
+    "nix-treefmt-formatter": {
+      "source": "aldoborrero/cc-skills-nix",
+      "sourceType": "github",
+      "skillPath": "skills/nix-treefmt-formatter/SKILL.md",
+      "computedHash": "608115e20e18e8ce29dd8561e8752ab9afa8e01bc71f1f6ebf2991649f427620"
+    }
+  }
+}

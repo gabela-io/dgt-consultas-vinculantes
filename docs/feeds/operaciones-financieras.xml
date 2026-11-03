@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://gabela-io.github.io/dgt-consultas-vinculantes/feeds/operaciones-financieras.xml</id>
+  <title>Consultas vinculantes DGT: Operaciones financieras</title>
+  <subtitle>Consultas vinculantes de la Dirección General de Tributos. Origen de los datos: Ministerio de Hacienda.</subtitle>
+  <updated>2026-07-15T00:00:00Z</updated>
+  <link rel="self" href="https://gabela-io.github.io/dgt-consultas-vinculantes/feeds/operaciones-financieras.xml" />
+  <link rel="alternate" href="https://github.com/gabela-io/dgt-consultas-vinculantes" />
+  <author>
+    <name>gabela-io (unofficial)</name>
+  </author>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5176-26</id>
+    <title>V5176-26 · Tributación de la cantidad recibida.</title>
+    <updated>2026-07-15T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5176-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5176-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 25.2. Tributación de la cantidad recibida.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5166-26</id>
+    <title>V5166-26 · Posibilidad de realizar aportaciones al plan de pensiones.</title>
+    <updated>2026-07-14T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5166-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5166-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - DA.10. Posibilidad de realizar aportaciones al plan de pensiones.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5164-26</id>
+    <title>V5164-26 · Posibilidad de aplicar la reducción del 40 por ciento contemplada en el régimen transitorio por disposición anticipada …</title>
+    <updated>2026-07-14T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5164-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5164-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - DT.12. Posibilidad de aplicar la reducción del 40 por ciento contemplada en el régimen transitorio por disposición anticipada de derechos consolidados correspondientes a aportaciones realizadas con al menos diez años de antigüedad.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5156-26</id>
+    <title>V5156-26 · Posibilidad de aplicar la reducción del 40 por ciento contemplada en el régimen transitorio en caso de efectuar el resc…</title>
+    <updated>2026-07-13T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5156-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5156-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - DT.12. Posibilidad de aplicar la reducción del 40 por ciento contemplada en el régimen transitorio en caso de efectuar el rescate de las prestaciones del plan de pensiones y de la mutualidad de previsión social.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5155-26</id>
+    <title>V5155-26 · Si deben incluirse en la declaración del Impuesto sobre la Renta de las Personas Físicas correspondiente a 2023 los ben…</title>
+    <updated>2026-07-13T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5155-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5155-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 93. Si deben incluirse en la declaración del Impuesto sobre la Renta de las Personas Físicas correspondiente a 2023 los beneficios obtenidos de las operaciones señaladas en la descripción de hechos.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5149-26</id>
+    <title>V5149-26 · Si la entidad consultante está obligada a presentar la declaración informativa correspondiente al modelo 345.</title>
+    <updated>2026-07-13T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5149-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5149-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: RD 1065/2007 Reglamento Proc. Gestión e Inspección y N.Comunes de Aplicación - 53. Si la entidad consultante está obligada a presentar la declaración informativa correspondiente al modelo 345.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5148-26</id>
+    <title>V5148-26 · Posibilidad de aplicar la reducción del 40 por ciento contemplada en el régimen transitorio en caso de disposición anti…</title>
+    <updated>2026-07-13T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5148-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5148-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - DT.12. Posibilidad de aplicar la reducción del 40 por ciento contemplada en el régimen transitorio en caso de disposición anticipada de derechos consolidados correspondientes a aportaciones realizadas con al menos diez años de antigüedad.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5139-26</id>
+    <title>V5139-26 · Posibilidad de aplicar la exención del artículo 7.w) de la Ley del Impuesto sobre la Renta de las Personas Físicas.</title>
+    <updated>2026-07-09T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5139-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5139-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 7.w). Posibilidad de aplicar la exención del artículo 7.w) de la Ley del Impuesto sobre la Renta de las Personas Físicas.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5095-26</id>
+    <title>V5095-26 · Posibilidad de aplicar la reducción del 40 por ciento contemplada en el régimen transitorio del Impuesto sobre la Renta…</title>
+    <updated>2026-06-29T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5095-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5095-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - DT.12. Posibilidad de aplicar la reducción del 40 por ciento contemplada en el régimen transitorio del Impuesto sobre la Renta de las Personas Físicas.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5063-26</id>
+    <title>V5063-26 · A efectos de aplicar la reducción del 40 por ciento prevista en el régimen transitorio, cuándo se considera acaecida la…</title>
+    <updated>2026-06-23T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5063-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5063-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - DT.12. A efectos de aplicar la reducción del 40 por ciento prevista en el régimen transitorio, cuándo se considera acaecida la contingencia de jubilación.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5039-26</id>
+    <title>V5039-26 · Posibilidad de aplicar la reducción del 40 por ciento prevista en el régimen transitorio si traspasa los derechos conso…</title>
+    <updated>2026-06-15T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5039-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5039-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - DT.12. Posibilidad de aplicar la reducción del 40 por ciento prevista en el régimen transitorio si traspasa los derechos consolidados del plan de pensiones a otros planes y rescata cada plan de pensiones en forma de capital en ejercicios distintos.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5034-26</id>
+    <title>V5034-26 · Posibilidad de aplicar la reducción del 40 por ciento contemplada en el régimen transitorio y plazo para aplicar la red…</title>
+    <updated>2026-06-12T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5034-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5034-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - DT.12. Posibilidad de aplicar la reducción del 40 por ciento contemplada en el régimen transitorio y plazo para aplicar la reducción.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5028-26</id>
+    <title>V5028-26 · Aplicación de la reducción del 40 por ciento contemplada en el régimen transitorio.</title>
+    <updated>2026-06-10T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5028-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5028-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - DT.12. Aplicación de la reducción del 40 por ciento contemplada en el régimen transitorio.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5017-26</id>
+    <title>V5017-26 · A efectos del Impuesto sobre la Renta de las Personas Físicas y del Impuesto sobre el Valor Añadido, se plantea: 1º. Tr…</title>
+    <updated>2026-06-05T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5017-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5017-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 25.2. A efectos del Impuesto sobre la Renta de las Personas Físicas y del Impuesto sobre el Valor Añadido, se plantea: 1º. Tratamiento tributario de las operaciones de "staking", así como de la posterior transmisión de las criptomonedas obtenidas. 2º. Tratamiento tributario de la obte…</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5010-26</id>
+    <title>V5010-26 · Posibilidad de movilizar los derechos económicos del plan de pensiones del que es beneficiaria a su plan de pensiones y…</title>
+    <updated>2026-06-04T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5010-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5010-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - 53. Posibilidad de movilizar los derechos económicos del plan de pensiones del que es beneficiaria a su plan de pensiones y consecuencias tributarias.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5008-26</id>
+    <title>V5008-26 · Posibilidad de aplicar la reducción del 40 por ciento contemplada en el régimen transitorio por disposición anticipada …</title>
+    <updated>2026-06-02T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5008-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5008-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - DT.12. Posibilidad de aplicar la reducción del 40 por ciento contemplada en el régimen transitorio por disposición anticipada de derechos consolidados correspondientes a aportaciones realizadas con al menos diez años de antigüedad dentro de cinco años.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5003-26</id>
+    <title>V5003-26 · Posibilidad de aplicar la reducción del 40 por ciento prevista en el régimen transitorio por el supuesto excepcional de…</title>
+    <updated>2026-05-28T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5003-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5003-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - DT.12. Posibilidad de aplicar la reducción del 40 por ciento prevista en el régimen transitorio por el supuesto excepcional de liquidez de desempleo de larga duración si efectúa el rescate en 2026.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5002-26</id>
+    <title>V5002-26 · Posibilidad de aplicar la reducción del 40 por ciento contemplada en el régimen transitorio.</title>
+    <updated>2026-05-26T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5002-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5002-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - DT.12. Posibilidad de aplicar la reducción del 40 por ciento contemplada en el régimen transitorio.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5001-26</id>
+    <title>V5001-26 · Posibilidad de aplicar la reducción del 40 por ciento prevista en el régimen transitorio por disposición anticipada de …</title>
+    <updated>2026-05-25T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V5001-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V5001-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: Ley 35/2006 Impuesto sobre la Renta de las Personas Físicas IRPF - DT.12. Posibilidad de aplicar la reducción del 40 por ciento prevista en el régimen transitorio por disposición anticipada de los derechos consolidados correspondientes a aportaciones con al menos diez años de antigüedad y, posteriormente, por acaecimiento de la contingencia de jubilac…</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V1176-26</id>
+    <title>V1176-26 · Posibilidad de aportar 10.000 euros a cada plan de pensiones constituido a favor de personas con discapacidad y si esta…</title>
+    <updated>2026-05-20T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V1176-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V1176-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: Ley 35/2006 arts. 50, 53, DA 10
+
+RDLG 1/2002 DA 4. Posibilidad de aportar 10.000 euros a cada plan de pensiones constituido a favor de personas con discapacidad y si estas aportaciones pueden ser objeto de reducción en la base imponible del Impuesto sobre la Renta de las Personas Físicas.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V1050-26</id>
+    <title>V1050-26 · Tributación de las prestaciones a percibir correspondientes a las aportaciones iniciales constituidas por el importe de…</title>
+    <updated>2026-05-12T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V1050-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V1050-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: Ley 35/2006 art. 17-2-a-5, DT 11
+
+RDLG 3/2004 art. 17-2-b. Tributación de las prestaciones a percibir correspondientes a las aportaciones iniciales constituidas por el importe de los derechos consolidados por servicios pasados a 01/07/1992.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V1018-26</id>
+    <title>V1018-26 · Tributación de la prestación percibida y posibilidad de detraer del capital percibido el importe de las primas satisfec…</title>
+    <updated>2026-05-06T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V1018-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V1018-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: Ley 35/2006 art. 25-3-a
+
+RD 439/2007 art. 90-1, 93-5. Tributación de la prestación percibida y posibilidad de detraer del capital percibido el importe de las primas satisfechas que corresponda al capital en riesgo.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0992-26</id>
+    <title>V0992-26 · Plazo para aplicar la reducción del 40 por ciento contemplada en el régimen transitorio.</title>
+    <updated>2026-05-05T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0992-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0992-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: Ley 35/2006 arts. 17-2-a-3, DT 12
+
+RDLG 3/2004 art. 17-2-b
+
+RDLG 8/2015 art. 214. Plazo para aplicar la reducción del 40 por ciento contemplada en el régimen transitorio.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0985-26</id>
+    <title>V0985-26 · Posibilidad de realizar aportaciones a un plan de pensiones constituido a favor de persona con discapacidad.</title>
+    <updated>2026-05-05T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0985-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0985-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: Ley 35/2006 art. 53, DA 10
+
+RDL 1/2002 DA 4. Posibilidad de realizar aportaciones a un plan de pensiones constituido a favor de persona con discapacidad.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0902-26</id>
+    <title>V0902-26 · Posibilidad de realizar aportaciones al plan de pensiones bajo el régimen de aportaciones a sistemas de previsión socia…</title>
+    <updated>2026-04-23T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0902-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0902-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: Ley 35/2006 art. 7-w, 17-2-a-3, 53
+
+RDL 1/2002 DA 4. Posibilidad de realizar aportaciones al plan de pensiones bajo el régimen de aportaciones a sistemas de previsión social constituidos a favor de personas con discapacidad y posibilidad de aplicar la exención del artículo 7.w) de la Ley del Impuesto sobre la Renta de las Personas…</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0896-26</id>
+    <title>V0896-26 · Si resulta de aplicación la disposición transitoria segunda de la Ley del IRPF.</title>
+    <updated>2026-04-23T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0896-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0896-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: Ley 35/2006 art. 17-2-a-4, DT 2. Si resulta de aplicación la disposición transitoria segunda de la Ley del IRPF.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0889-26</id>
+    <title>V0889-26 · Tributación de estas operaciones a efectos del IRPF. Diversas cuestiones relativas a la tributación de las operaciones …</title>
+    <updated>2026-04-22T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0889-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0889-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: Ley 35/2006 arts. 33-1, 34, 35, 49
+
+Ley 37/1992, art. 20-Uno-18. Tributación de estas operaciones a efectos del IRPF. Diversas cuestiones relativas a la tributación de las operaciones en el IVA.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0825-26</id>
+    <title>V0825-26 · Posibilidad de movilizarlo en su totalidad a un plan de pensiones y consecuencias fiscales de dicha movilización.</title>
+    <updated>2026-04-16T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0825-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0825-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: Ley 35/2006 DA 22
+
+RD 304/2004 DA 5
+
+RD 439/2007 art. 49-3. Posibilidad de movilizarlo en su totalidad a un plan de pensiones y consecuencias fiscales de dicha movilización.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0797-26</id>
+    <title>V0797-26 · En caso de fallecimiento del partícipe, posibilidad de que el consultante, también con discapacidad con un grado de min…</title>
+    <updated>2026-04-10T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0797-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0797-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: Ley 35/2006 art. 7-w, 17-2-a-3, 53, DA 10
+
+RD 304/2004 art. 13
+
+RDLG 1/2002 DA 4. En caso de fallecimiento del partícipe, posibilidad de que el consultante, también con discapacidad con un grado de minusvalía superior al 65 por ciento y titular de un plan de pensiones constituido a favor de personas con discapacidad, en su condición de beneficiario del plan d…</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0796-26</id>
+    <title>V0796-26 · 1. Si pueden considerarse valores homogéneos entre sí las participaciones pertenecientes a diferentes clases de un mism…</title>
+    <updated>2026-04-09T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0796-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0796-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: Ley 35/2006 art. 94-1-a, 94-2-a
+
+RD 439/2007 art. 8. 1. Si pueden considerarse valores homogéneos entre sí las participaciones pertenecientes a diferentes clases de un mismo fondo de inversión a efectos de la aplicación del criterio FIFO. 2. Si pueden considerarse valores homogéneos entre sí las participaciones de fondos de invers…</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0746-26</id>
+    <title>V0746-26 · Posibilidad de aplicar la reducción del 40 por ciento contemplada en el régimen transitorio por disposición anticipada …</title>
+    <updated>2026-03-31T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0746-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0746-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: Ley 35/2006 arts. 17-2-a-3, DT 12
+
+RD 304/2004 arts. 7, 9, DT 7
+
+RDLG 1/2002 arts. 8-6, 8-8, DT 7
+
+RDLG 3/2004 art. 17-2-b. Posibilidad de aplicar la reducción del 40 por ciento contemplada en el régimen transitorio por disposición anticipada de derechos consolidados correspondientes a aportaciones realizadas con al menos 10 años de antigüedad.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0728-26</id>
+    <title>V0728-26 · Aplicación a la movilización de la no sujeción prevista en la disposición adicional primera de la Ley del IRPF y el art…</title>
+    <updated>2026-03-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0728-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0728-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: Ley 27/2014 art. 19-4
+
+Ley 35/2005 DA 1, DT 11
+
+RD 1588/1999 art. 29
+
+RDL 1/2002 DA 1. Aplicación a la movilización de la no sujeción prevista en la disposición adicional primera de la Ley del IRPF y el artículo 19.4 de la Ley del IS. Mantenimiento de la antigüedad de las primas satisfechas a efectos de la aplicación de la reducción del 40 por ciento prevista en e…</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0727-26</id>
+    <title>V0727-26 · Posibilidad de aplicar la reducción del 40 por ciento prevista en el régimen transitorio del Impuesto sobre la Renta de…</title>
+    <updated>2026-03-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0727-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0727-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: Ley 35/2006 art. 17-2-a-3, DT 12
+
+RDLG 3/2004 art. 17-2-b. Posibilidad de aplicar la reducción del 40 por ciento prevista en el régimen transitorio del Impuesto sobre la Renta de las Personas Físicas al rescate que se efectúe del plan de pensiones por la contingencia de jubilación o de fallecimiento.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0710-26</id>
+    <title>V0710-26 · Posibilidad de aplicar la reducción del 40 por ciento prevista en el régimen transitorio por disposición anticipada de …</title>
+    <updated>2026-03-30T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0710-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0710-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: Ley 35/2006 art. 17-2-a-3, DT 12
+
+RD 304/2004 arts. 8, 9-1
+
+RDLG 1/2002 arts. 8-6, 8-8
+
+RDLG 3/2004 art. 17-2-b. Posibilidad de aplicar la reducción del 40 por ciento prevista en el régimen transitorio por disposición anticipada de derechos consolidados correspondientes a aportaciones realizadas con al menos 10 años antigüedad en el rescate de los planes de pensiones individuales.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0670-26</id>
+    <title>V0670-26 · Primera cuestión. Posibilidad de aplicar la reducción del 40 por ciento prevista en el régimen transitorio si efectúa e…</title>
+    <updated>2026-03-26T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0670-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0670-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: Ley 35/2006 arts. 17-2-a-3, 96, DT 12
+
+RD 304/2004 arts. 8-1, 9-1, 9-4
+
+RDLG 1/2002 art. 8-6, 8-8
+
+RDLG 3/2004 art. 17-2-b. Primera cuestión. Posibilidad de aplicar la reducción del 40 por ciento prevista en el régimen transitorio si efectúa el primer rescate de su plan de pensiones a partir del 1 de enero de 2026. Segunda cuestión. Si el importe computable a efectos de la obligación de declarar es l…</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0631-26</id>
+    <title>V0631-26 · Posibilidad de rescatar el plan de pensiones que contrate en 2026 por la contingencia de jubilación y posibilidad de ap…</title>
+    <updated>2026-03-19T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0631-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0631-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: Ley 35/2006 art. 7-w, 17-2-a-3, 50, 53. Posibilidad de rescatar el plan de pensiones que contrate en 2026 por la contingencia de jubilación y posibilidad de aplicar a la prestación la exención del artículo 7.w) de la Ley del Impuesto sobre la Renta de las Personas Físicas.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0623-26</id>
+    <title>V0623-26 · Posibilidad de percibir la prestación derivada del plan de pensiones y de aplicar los excesos no reducidos por aportaci…</title>
+    <updated>2026-03-19T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0623-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0623-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: Ley 35/2006 arts. 17-2-a-3, 50-1, 51, 52, DT 12
+
+RD 439/2007 art. 51
+
+RDLG 3/2004 art. 17-2-b. Posibilidad de percibir la prestación derivada del plan de pensiones y de aplicar los excesos no reducidos por aportaciones y contribuciones a sistemas de previsión social.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0620-26</id>
+    <title>V0620-26 · Tratamiento tributario aplicable en el Impuesto sobre la Renta de las Personas Físicas al pago de la prima a la entidad…</title>
+    <updated>2026-03-18T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0620-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0620-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: Ley 35/20006 Arts. 33-1, 34, 14-1-c, 46-b y 49-1-b. Tratamiento tributario aplicable en el Impuesto sobre la Renta de las Personas Físicas al pago de la prima a la entidad aseguradora mediante la aportación de las acciones cotizadas de las que el consultante es titular.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0619-26</id>
+    <title>V0619-26 · Consideración de las ganancias patrimoniales derivadas de operaciones con criptomonedas como rentas obtenidas en Melill…</title>
+    <updated>2026-03-18T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0619-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0619-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: Ley 35/2006 art. 33-1, 49, 68-4. Consideración de las ganancias patrimoniales derivadas de operaciones con criptomonedas como rentas obtenidas en Melilla a efectos de la deducción por rentas obtenidas en Ceuta o Melilla prevista en la Ley del Impuesto sobre la Renta de las Personas Físicas. Medios de acreditaci…</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0614-26</id>
+    <title>V0614-26 · Tributación de la prestación a percibir por jubilación.</title>
+    <updated>2026-03-17T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0614-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0614-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: Ley 35/2006 arts. 17-2-a-5, 18, DT 11. Tributación de la prestación a percibir por jubilación.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0613-26</id>
+    <title>V0613-26 · Tributación de la indemnización percibida.</title>
+    <updated>2026-03-17T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0613-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0613-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: Ley 29/1987 arts. 3, 5
+
+Ley 35/2006 art. 6-4
+
+RD 1629/1991 arts. 3-b, 4, 12-e. Tributación de la indemnización percibida.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0612-26</id>
+    <title>V0612-26 · 1. Tributación en el Impuesto sobre la Renta de las Personas Físicas de las rentas obtenidas por el consultante en las …</title>
+    <updated>2026-03-17T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0612-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0612-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: Ley 35/2006 art. 2, 14-1-a, 22, 25-2, 27-1, 33-1, 35, 37-1-h. 1. Tributación en el Impuesto sobre la Renta de las Personas Físicas de las rentas obtenidas por el consultante en las distintas modalidades de "staking". 2. Si el hecho de que las plataformas de servicios de criptoactivos estén obligadas, en su caso, a presentar modelos informa…</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0611-26</id>
+    <title>V0611-26 · Posibilidad de aplicar la reducción del 40 por ciento contemplada en el régimen transitorio en caso de disposición anti…</title>
+    <updated>2026-03-17T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0611-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0611-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: Ley 35/2006 art. 17-2-a-6, DT 12
+
+RDLG 3/2004 art. 17-2-b. Posibilidad de aplicar la reducción del 40 por ciento contemplada en el régimen transitorio en caso de disposición anticipada de derechos consolidados correspondientes a aportaciones realizadas con al menos diez años de antigüedad.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0608-26</id>
+    <title>V0608-26 · Posibilidad de realizar aportaciones a los planes de pensiones individuales una vez rescatado el plan de empleo y de si…</title>
+    <updated>2026-03-16T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0608-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0608-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: Ley 35/2006 arts. 17-2-a-3, 50, 52, DT 12
+
+RD 304/2004 art. 11
+
+RDLG 1/2002 art. 8-6
+
+RDLG 3/2004 art. 17-2-b. Posibilidad de realizar aportaciones a los planes de pensiones individuales una vez rescatado el plan de empleo y de si dichas aportaciones pueden ser objeto de reducción en el Impuesto sobre la Renta de las Personas Físicas.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0592-26</id>
+    <title>V0592-26 · Posibilidad de aplicar la reducción del 40 por ciento contemplada en el régimen transitorio en el caso de disposición a…</title>
+    <updated>2026-03-12T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0592-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0592-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: Ley 35/2006 art. 17-2-a-3, DT 12
+
+RD 304/2004 art. 8, 9-4
+
+RDLey 11/2020 DA 20
+
+RDLG 1/2002 art. 8-6, 8-8
+
+RDLG 3/2004 art. 17-2-b. Posibilidad de aplicar la reducción del 40 por ciento contemplada en el régimen transitorio en el caso de disposición anticipada de derechos consolidados correspondientes a aportaciones realizadas con al menos 10 años de antigüedad.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0591-26</id>
+    <title>V0591-26 · Interpretación del artículo 52.1.b) de la Ley del IRPF, en relación con los trabajadores adheridos al plan de pensiones…</title>
+    <updated>2026-03-12T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0591-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0591-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: Ley 35/2006 art. 52-1. Interpretación del artículo 52.1.b) de la Ley del IRPF, en relación con los trabajadores adheridos al plan de pensiones de empleo. En particular, si la cuantía del "plus de previsión social" tiene la consideración de contribución empresarial o, por el contrario, de aportación de…</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0553-26</id>
+    <title>V0553-26 · Posibilidad, en su caso, de aplicar la disposición transitoria segunda de la Ley del IRPF a la pensión de gran invalide…</title>
+    <updated>2026-03-10T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0553-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0553-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: Ley 35/2006 art. 7-f, 17-2-a-1, 17-2-a-4, DT 2. Posibilidad, en su caso, de aplicar la disposición transitoria segunda de la Ley del IRPF a la pensión de gran invalidez que percibe el consultante.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0527-26</id>
+    <title>V0527-26 · Posibilidad de aplicar la reducción prevista en el artículo 53 de la Ley del IRPF por las primas satisfechas al plan de…</title>
+    <updated>2026-03-05T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0527-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0527-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: Ley 35/2006 art 53, DA 10. Posibilidad de aplicar la reducción prevista en el artículo 53 de la Ley del IRPF por las primas satisfechas al plan de previsión asegurado.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0524-26</id>
+    <title>V0524-26 · Posibilidad de aplicación de la exención por reinversión en rentas vitalicias.</title>
+    <updated>2026-03-05T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0524-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0524-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: Ley 35/2006 art. 38-3
+
+RD 439/2007 arts. 42, DA 9. Posibilidad de aplicación de la exención por reinversión en rentas vitalicias.</summary>
+  </entry>
+  <entry>
+    <id>https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0495-26</id>
+    <title>V0495-26 · Posibilidad de aplicar la reducción del 40 por ciento prevista en el régimen transitorio por disposición anticipada de …</title>
+    <updated>2026-03-04T00:00:00Z</updated>
+    <link rel="alternate" href="https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0495-26" />
+    <link rel="related" href="https://github.com/gabela-io/dgt-consultas-vinculantes/blob/main/consultas/2026/V0495-26.md" />
+    <category term="operaciones-financieras" label="SG de Tributación de las Operaciones Financieras" />
+    <summary>SG de Tributación de las Operaciones Financieras. Normativa: Ley 35/2006 art.17-2-a-3, DT 12
+
+RD 304/2004 arts. 7, 8, 9, DT 7
+
+RDLeg 1/2002 art. 8-6, 8-8, DT 7
+
+RDLeg 3/2004 art. 17-2-b. Posibilidad de aplicar la reducción del 40 por ciento prevista en el régimen transitorio por disposición anticipada de derechos consolidados correspondientes a aportaciones con al menos 10 años de antigüedad y, posteriormente, por acaecimiento de la contingencia de jubilación.</summary>
+  </entry>
+</feed>

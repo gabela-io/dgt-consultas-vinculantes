@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this dataset or its tools, please cite it as below."
+type: dataset
+title: "dgt-consultas-vinculantes: binding rulings of Spain's Dirección General de Tributos"
+abstract: >-
+  Every binding ruling (consulta vinculante) published by Spain's Dirección
+  General de Tributos since 1997, as Markdown with YAML frontmatter, together
+  with the scraper that keeps it up to date, a full-text search index with an
+  MCP server, and a checker against the BOE consolidated texts. Origen de los
+  datos: Ministerio de Hacienda.
+authors:
+  - family-names: Borrero
+    given-names: Aldo
+  - name: gabela
+    website: "https://github.com/gabela-io"
+repository-code: "https://github.com/gabela-io/dgt-consultas-vinculantes"
+url: "https://github.com/gabela-io/dgt-consultas-vinculantes"
+# The MIT license covers the code only. The rulings are public documents of the
+# Dirección General de Tributos, reused under the Ministerio de Hacienda terms.
+license-url: "https://github.com/gabela-io/dgt-consultas-vinculantes#license"
+version: 0.1.0
+keywords:
+  - tax law
+  - Spain
+  - Dirección General de Tributos
+  - consultas vinculantes
+  - legal dataset
+  - open data
+  - MCP
