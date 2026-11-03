@@ -225,6 +225,13 @@ claude mcp add --scope user dgt-consultas -- \
   uv run --quiet --directory "$PWD" dgt-consultas mcp --corpus "$PWD"
 ```
 
+If `uv` is not on your `PATH` (for example on NixOS without `uv` installed), the server does not start and Claude Code reports `Executable not found in $PATH: uv`. Run it through Nix instead:
+
+```bash
+claude mcp add --scope user dgt-consultas -- \
+  nix shell nixpkgs#uv -c uv run --quiet --directory "$PWD" dgt-consultas mcp --corpus "$PWD"
+```
+
 ### Follow new rulings
 
 The weekly update writes Atom feeds to [`docs/feeds/`](docs/feeds/), which GitHub Pages serves. Any feed reader (Feedly, Inoreader, Thunderbird…) can subscribe, and feed-to-email services turn them into alerts:
